@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-29T20:24:50+00:00",
-  "count": 36,
+  "timestamp": "2026-09-29T20:31:10+00:00",
+  "count": 38,
   "tickers": [
     "SDEV",
     "BKYI",
@@ -16,6 +16,7 @@
     "EJH",
     "SLE",
     "WYY",
+    "KMRK",
     "NAUT",
     "MF",
     "AIFU",
@@ -27,11 +28,12 @@
     "XRPN",
     "TJGC",
     "ONEN",
-    "QSI",
     "BEX",
     "BEG",
+    "QSI",
     "TEAD",
     "AVAZ",
+    "PLUT",
     "EGG",
     "UZX",
     "MGRX",
@@ -39,7 +41,7 @@
     "ASPS",
     "SMJF"
   ],
-  "enriquecidos": 29,
+  "enriquecidos": 31,
   "pendientes": 0,
   "data": [
     {
@@ -267,6 +269,22 @@
       "empresa": "WidePoint Corporation"
     },
     {
+      "ticker": "KMRK",
+      "ok": true,
+      "float": "4.60M ($4.60M)",
+      "os": "21.10M ($21.10M)  [DT]",
+      "os_growth": "+8.2%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$23.80M",
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": "0.4%",
+      "caja_meses": "10.5",
+      "header_raw": null,
+      "empresa": "K-Tech Solutions"
+    },
+    {
       "ticker": "NAUT",
       "ok": true,
       "float": "63.18M ($63.18M)",
@@ -443,22 +461,6 @@
       "empresa": "ONE Nuclear Energy Inc."
     },
     {
-      "ticker": "QSI",
-      "ok": true,
-      "float": "174.08M ($174.08M)",
-      "os": "218.88M ($218.88M)  [DT]",
-      "os_growth": "+19.5%",
-      "dil_instr": "6",
-      "dil_tipos": "ATM, Shelf, Warrant",
-      "market_cap": "$209.20M",
-      "ev": "$62.90M",
-      "net_cash_sh": "0.67",
-      "inst_own": "24.0%",
-      "caja_meses": "20.4",
-      "header_raw": null,
-      "empresa": "Quantum-Si incorporated"
-    },
-    {
       "ticker": "BEX",
       "ok": false,
       "float": "No disponible (Float & OS: Float & OS: )",
@@ -491,6 +493,22 @@
       "empresa": "None"
     },
     {
+      "ticker": "QSI",
+      "ok": true,
+      "float": "174.08M ($174.08M)",
+      "os": "218.88M ($218.88M)  [DT]",
+      "os_growth": "+19.5%",
+      "dil_instr": "6",
+      "dil_tipos": "ATM, Shelf, Warrant",
+      "market_cap": "$209.20M",
+      "ev": "$62.90M",
+      "net_cash_sh": "0.67",
+      "inst_own": "24.0%",
+      "caja_meses": "20.4",
+      "header_raw": null,
+      "empresa": "Quantum-Si incorporated"
+    },
+    {
       "ticker": "TEAD",
       "ok": true,
       "float": "86.46M ($86.46M)",
@@ -521,6 +539,22 @@
       "caja_meses": null,
       "header_raw": "Float & OS: Float & OS: )",
       "empresa": "None"
+    },
+    {
+      "ticker": "PLUT",
+      "ok": true,
+      "float": "3.93M ($3.93M)",
+      "os": "15.35M ($15.35M)  [DT]",
+      "os_growth": "+1.0%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$38.40M",
+      "ev": "$38.50M",
+      "net_cash_sh": "-0.24",
+      "inst_own": null,
+      "caja_meses": "4.1",
+      "header_raw": null,
+      "empresa": "Plutus Financial"
     },
     {
       "ticker": "EGG",
