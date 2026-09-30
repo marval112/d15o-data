@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-30T09:24:37+00:00",
+  "timestamp": "2026-09-30T09:30:46+00:00",
   "count": 12,
   "tickers": [
     "NIVF",
     "FFR",
     "PLXS",
     "NCI",
+    "RETO",
     "CAPR",
     "KALA",
     "RITA",
-    "RETO",
     "FNGR",
     "MDXH",
-    "BIYA",
-    "ATCX"
+    "ATCX",
+    "WETO"
   ],
   "enriquecidos": 9,
   "pendientes": 0,
@@ -83,6 +83,22 @@
       "empresa": "Neo-Concept International Group"
     },
     {
+      "ticker": "RETO",
+      "ok": true,
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$4.70M",
+      "ev": "-$12.20M",
+      "net_cash_sh": "0.38",
+      "inst_own": null,
+      "caja_meses": "642.9",
+      "header_raw": null,
+      "empresa": "ReTo Eco-Solutions, Inc."
+    },
+    {
       "ticker": "CAPR",
       "ok": true,
       "float": "50.48M ($50.48M)",
@@ -131,22 +147,6 @@
       "empresa": "None"
     },
     {
-      "ticker": "RETO",
-      "ok": true,
-      "float": "42.88M ($42.88M)",
-      "os": "43.88M ($43.88M)  [DT]",
-      "os_growth": "+18183.3%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$4.70M",
-      "ev": "-$12.20M",
-      "net_cash_sh": "0.38",
-      "inst_own": null,
-      "caja_meses": "642.9",
-      "header_raw": null,
-      "empresa": "ReTo Eco-Solutions, Inc."
-    },
-    {
       "ticker": "FNGR",
       "ok": true,
       "float": "66.83M ($66.83M)",
@@ -179,22 +179,6 @@
       "empresa": "MDxHealth SA - ADR"
     },
     {
-      "ticker": "BIYA",
-      "ok": true,
-      "float": "5.00M ($5.00M)",
-      "os": "6.35M ($6.35M)  [DT]",
-      "os_growth": "+6955.6%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$15.00M",
-      "ev": "$10.30M",
-      "net_cash_sh": "0.73",
-      "inst_own": "0.2%",
-      "caja_meses": "159.9",
-      "header_raw": null,
-      "empresa": "Baiya International Group"
-    },
-    {
       "ticker": "ATCX",
       "ok": true,
       "float": "1.87M ($1.87M)",
@@ -209,6 +193,22 @@
       "caja_meses": "7.3",
       "header_raw": null,
       "empresa": "Atlas Critical Minerals"
+    },
+    {
+      "ticker": "WETO",
+      "ok": true,
+      "float": "0.66M ($660.00K)",
+      "os": "2.82M ($2.82M)  [DT]",
+      "os_growth": "+1181.8%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$3.60M",
+      "ev": "-$2.90M",
+      "net_cash_sh": "2.3",
+      "inst_own": "0.1%",
+      "caja_meses": null,
+      "header_raw": null,
+      "empresa": "Webus International"
     }
   ]
 }
