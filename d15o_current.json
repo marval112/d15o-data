@@ -1,23 +1,24 @@
 {
-  "timestamp": "2026-09-30T10:02:11+00:00",
-  "count": 14,
+  "timestamp": "2026-09-30T10:08:29+00:00",
+  "count": 15,
   "tickers": [
     "NIVF",
     "PLXS",
+    "RETO",
     "NCI",
     "FFR",
-    "RETO",
     "CAPR",
     "LGHL",
-    "KALA",
     "RITA",
     "FNGR",
+    "KALA",
     "BIYA",
+    "GOW",
     "MDXH",
     "ATCX",
     "WETO"
   ],
-  "enriquecidos": 11,
+  "enriquecidos": 12,
   "pendientes": 0,
   "data": [
     {
@@ -53,6 +54,22 @@
       "empresa": "Plexus Corp."
     },
     {
+      "ticker": "RETO",
+      "ok": true,
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$4.70M",
+      "ev": "-$12.20M",
+      "net_cash_sh": "0.38",
+      "inst_own": null,
+      "caja_meses": "642.9",
+      "header_raw": null,
+      "empresa": "ReTo Eco-Solutions, Inc."
+    },
+    {
       "ticker": "NCI",
       "ok": true,
       "float": "2.46M ($2.46M)",
@@ -83,22 +100,6 @@
       "caja_meses": null,
       "header_raw": "Float & OS: Float & OS: )",
       "empresa": "None"
-    },
-    {
-      "ticker": "RETO",
-      "ok": true,
-      "float": "42.88M ($42.88M)",
-      "os": "43.88M ($43.88M)  [DT]",
-      "os_growth": "+18183.3%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$4.70M",
-      "ev": "-$12.20M",
-      "net_cash_sh": "0.38",
-      "inst_own": null,
-      "caja_meses": "642.9",
-      "header_raw": null,
-      "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
       "ticker": "CAPR",
@@ -133,22 +134,6 @@
       "empresa": "Lion Group Holding Ltd."
     },
     {
-      "ticker": "KALA",
-      "ok": true,
-      "float": "19.34M ($19.34M)",
-      "os": "19.34M ($19.34M)  [DT]",
-      "os_growth": "+14776.9%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$14.80M",
-      "ev": "$9.80M",
-      "net_cash_sh": "0.26",
-      "inst_own": "3.2%",
-      "caja_meses": "6.7",
-      "header_raw": null,
-      "empresa": "Kala Pharmaceuticals, Inc."
-    },
-    {
       "ticker": "RITA",
       "ok": false,
       "float": "No disponible (Float & OS: Float & OS: )",
@@ -181,6 +166,22 @@
       "empresa": "FingerMotion Inc"
     },
     {
+      "ticker": "KALA",
+      "ok": true,
+      "float": "19.34M ($19.34M)",
+      "os": "19.34M ($19.34M)  [DT]",
+      "os_growth": "+14776.9%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$14.80M",
+      "ev": "$9.80M",
+      "net_cash_sh": "0.26",
+      "inst_own": "3.2%",
+      "caja_meses": "6.7",
+      "header_raw": null,
+      "empresa": "Kala Pharmaceuticals, Inc."
+    },
+    {
       "ticker": "BIYA",
       "ok": true,
       "float": "5.00M ($5.00M)",
@@ -195,6 +196,22 @@
       "caja_meses": "159.9",
       "header_raw": null,
       "empresa": "Baiya International Group"
+    },
+    {
+      "ticker": "GOW",
+      "ok": true,
+      "float": "2.12M ($2.12M)",
+      "os": "38.12M ($38.12M)  [DT]",
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$70.90M",
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": null,
+      "caja_meses": "3.5",
+      "header_raw": null,
+      "empresa": "GOWell Energy"
     },
     {
       "ticker": "MDXH",
