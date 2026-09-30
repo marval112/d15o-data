@@ -1,22 +1,23 @@
 {
-  "timestamp": "2026-09-30T10:46:08+00:00",
-  "count": 13,
+  "timestamp": "2026-09-30T10:52:17+00:00",
+  "count": 14,
   "tickers": [
     "NIVF",
     "LGHL",
     "NCI",
     "FFR",
     "KALA",
-    "RETO",
     "RITA",
+    "RETO",
     "FNGR",
     "CAPR",
     "BIYA",
     "TGE",
     "MDXH",
+    "WETO",
     "ATCX"
   ],
-  "enriquecidos": 11,
+  "enriquecidos": 12,
   "pendientes": 0,
   "data": [
     {
@@ -100,22 +101,6 @@
       "empresa": "Kala Pharmaceuticals, Inc."
     },
     {
-      "ticker": "RETO",
-      "ok": true,
-      "float": "42.88M ($42.88M)",
-      "os": "43.88M ($43.88M)  [DT]",
-      "os_growth": "+18183.3%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$4.70M",
-      "ev": "-$12.20M",
-      "net_cash_sh": "0.38",
-      "inst_own": null,
-      "caja_meses": "642.9",
-      "header_raw": null,
-      "empresa": "ReTo Eco-Solutions, Inc."
-    },
-    {
       "ticker": "RITA",
       "ok": false,
       "float": "No disponible (Float & OS: Float & OS: )",
@@ -130,6 +115,22 @@
       "caja_meses": null,
       "header_raw": "Float & OS: Float & OS: )",
       "empresa": "None"
+    },
+    {
+      "ticker": "RETO",
+      "ok": true,
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$4.70M",
+      "ev": "-$12.20M",
+      "net_cash_sh": "0.38",
+      "inst_own": null,
+      "caja_meses": "642.9",
+      "header_raw": null,
+      "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
       "ticker": "FNGR",
@@ -210,6 +211,22 @@
       "caja_meses": "27.8",
       "header_raw": null,
       "empresa": "MDxHealth SA - ADR"
+    },
+    {
+      "ticker": "WETO",
+      "ok": true,
+      "float": "0.66M ($660.00K)",
+      "os": "2.82M ($2.82M)  [DT]",
+      "os_growth": "+1181.8%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$3.60M",
+      "ev": "-$2.90M",
+      "net_cash_sh": "2.3",
+      "inst_own": "0.1%",
+      "caja_meses": null,
+      "header_raw": null,
+      "empresa": "Webus International"
     },
     {
       "ticker": "ATCX",
