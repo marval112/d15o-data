@@ -1,22 +1,20 @@
 {
-  "timestamp": "2026-09-30T08:45:06+00:00",
-  "count": 13,
+  "timestamp": "2026-09-30T08:51:46+00:00",
+  "count": 11,
   "tickers": [
     "NIVF",
     "NCI",
-    "RETO",
     "KALA",
     "CAPR",
     "RITA",
-    "BIYA",
     "FNGR",
+    "BIYA",
     "WETO",
-    "HKIT",
-    "MDXH",
-    "BOLT",
-    "ATCX"
+    "RETO",
+    "ATCX",
+    "MDXH"
   ],
-  "enriquecidos": 12,
+  "enriquecidos": 10,
   "pendientes": 0,
   "data": [
     {
@@ -50,22 +48,6 @@
       "caja_meses": null,
       "header_raw": null,
       "empresa": "Neo-Concept International Group"
-    },
-    {
-      "ticker": "RETO",
-      "ok": true,
-      "float": "42.88M ($42.88M)",
-      "os": "43.88M ($43.88M)  [DT]",
-      "os_growth": "+18183.3%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$5.10M",
-      "ev": "-$11.80M",
-      "net_cash_sh": "0.38",
-      "inst_own": null,
-      "caja_meses": "642.9",
-      "header_raw": null,
-      "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
       "ticker": "KALA",
@@ -116,22 +98,6 @@
       "empresa": "None"
     },
     {
-      "ticker": "BIYA",
-      "ok": true,
-      "float": "5.00M ($5.00M)",
-      "os": "6.35M ($6.35M)  [DT]",
-      "os_growth": "+6955.6%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$15.60M",
-      "ev": "$10.90M",
-      "net_cash_sh": "0.73",
-      "inst_own": "0.2%",
-      "caja_meses": "159.9",
-      "header_raw": null,
-      "empresa": "Baiya International Group"
-    },
-    {
       "ticker": "FNGR",
       "ok": true,
       "float": "66.83M ($66.83M)",
@@ -146,6 +112,22 @@
       "caja_meses": "11.1",
       "header_raw": null,
       "empresa": "FingerMotion Inc"
+    },
+    {
+      "ticker": "BIYA",
+      "ok": true,
+      "float": "5.00M ($5.00M)",
+      "os": "6.35M ($6.35M)  [DT]",
+      "os_growth": "+6955.6%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$15.60M",
+      "ev": "$10.90M",
+      "net_cash_sh": "0.73",
+      "inst_own": "0.2%",
+      "caja_meses": "159.9",
+      "header_raw": null,
+      "empresa": "Baiya International Group"
     },
     {
       "ticker": "WETO",
@@ -164,52 +146,20 @@
       "empresa": "Webus International"
     },
     {
-      "ticker": "HKIT",
+      "ticker": "RETO",
       "ok": true,
-      "float": "0.80M ($800.00K)",
-      "os": "0.80M ($800.00K)  [DT]",
-      "os_growth": "+9900.0%",
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$2.20M",
-      "ev": "-$26.00M",
-      "net_cash_sh": "35.31",
-      "inst_own": "0.1%",
-      "caja_meses": "243.9",
+      "market_cap": "$4.60M",
+      "ev": "-$12.20M",
+      "net_cash_sh": "0.38",
+      "inst_own": null,
+      "caja_meses": "642.9",
       "header_raw": null,
-      "empresa": "Hitek Global"
-    },
-    {
-      "ticker": "MDXH",
-      "ok": true,
-      "float": "82.91M ($82.91M)",
-      "os": "95.42M ($95.42M)  [DT]",
-      "os_growth": "+92.8%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$52.70M",
-      "ev": "$124.40M",
-      "net_cash_sh": "-0.75",
-      "inst_own": "17.4%",
-      "caja_meses": "27.8",
-      "header_raw": null,
-      "empresa": "MDxHealth SA - ADR"
-    },
-    {
-      "ticker": "BOLT",
-      "ok": true,
-      "float": "1.54M ($1.54M)",
-      "os": "1.92M ($1.92M)  [DT]",
-      "os_growth": "+0.0%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$7.00M",
-      "ev": "$19.30M",
-      "net_cash_sh": "-6.4",
-      "inst_own": "31.1%",
-      "caja_meses": "3.5",
-      "header_raw": null,
-      "empresa": "Bolt Biotherapeutics, Inc."
+      "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
       "ticker": "ATCX",
@@ -226,6 +176,22 @@
       "caja_meses": "7.3",
       "header_raw": null,
       "empresa": "Atlas Critical Minerals"
+    },
+    {
+      "ticker": "MDXH",
+      "ok": true,
+      "float": "82.91M ($82.91M)",
+      "os": "95.42M ($95.42M)  [DT]",
+      "os_growth": "+92.8%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$52.70M",
+      "ev": "$124.40M",
+      "net_cash_sh": "-0.75",
+      "inst_own": "17.4%",
+      "caja_meses": "27.8",
+      "header_raw": null,
+      "empresa": "MDxHealth SA - ADR"
     }
   ]
 }
