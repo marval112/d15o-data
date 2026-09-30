@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T11:56:27+00:00",
+  "timestamp": "2026-09-30T12:03:07+00:00",
   "count": 15,
   "tickers": [
     "ZCSH",
@@ -8,15 +8,15 @@
     "LGHL",
     "NCI",
     "FFR",
-    "RETO",
-    "RITA",
     "VBIO",
+    "RITA",
+    "RETO",
     "BVC",
     "NCPL",
+    "TGE",
     "ATXG",
     "BIYA",
-    "NAUT",
-    "TGE"
+    "WETO"
   ],
   "enriquecidos": 12,
   "pendientes": 0,
@@ -118,20 +118,20 @@
       "empresa": "None"
     },
     {
-      "ticker": "RETO",
+      "ticker": "VBIO",
       "ok": true,
-      "float": "42.88M ($42.88M)",
-      "os": "43.88M ($43.88M)  [DT]",
-      "os_growth": "+18183.3%",
+      "float": "1.28M ($1.28M)",
+      "os": "1.29M ($1.29M)  [DT]",
+      "os_growth": "+3552.3%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$4.70M",
-      "ev": "-$12.20M",
-      "net_cash_sh": "0.38",
-      "inst_own": null,
-      "caja_meses": "642.9",
+      "market_cap": "$4.50M",
+      "ev": "$21.90M",
+      "net_cash_sh": "-15.71",
+      "inst_own": "1.2%",
+      "caja_meses": "1.7",
       "header_raw": null,
-      "empresa": "ReTo Eco-Solutions, Inc."
+      "empresa": "Valion Bio"
     },
     {
       "ticker": "RITA",
@@ -150,20 +150,20 @@
       "empresa": "None"
     },
     {
-      "ticker": "VBIO",
+      "ticker": "RETO",
       "ok": true,
-      "float": "1.28M ($1.28M)",
-      "os": "1.29M ($1.29M)  [DT]",
-      "os_growth": "+3552.3%",
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$4.50M",
-      "ev": "$21.90M",
-      "net_cash_sh": "-15.71",
-      "inst_own": "1.2%",
-      "caja_meses": "1.7",
+      "market_cap": "$4.70M",
+      "ev": "-$12.20M",
+      "net_cash_sh": "0.38",
+      "inst_own": null,
+      "caja_meses": "642.9",
       "header_raw": null,
-      "empresa": "Valion Bio"
+      "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
       "ticker": "BVC",
@@ -198,6 +198,22 @@
       "empresa": "Netcapital"
     },
     {
+      "ticker": "TGE",
+      "ok": true,
+      "float": "13.79M ($13.79M)",
+      "os": "54.80M ($54.80M)  [DT]",
+      "os_growth": "+0.0%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$57.00M",
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": "0.2%",
+      "caja_meses": null,
+      "header_raw": null,
+      "empresa": "Generation Essentials Group"
+    },
+    {
       "ticker": "ATXG",
       "ok": true,
       "float": "1.97M ($1.97M)",
@@ -230,36 +246,20 @@
       "empresa": "Baiya International Group"
     },
     {
-      "ticker": "NAUT",
+      "ticker": "WETO",
       "ok": true,
-      "float": "63.18M ($63.18M)",
-      "os": "127.26M ($127.26M)  [DT]",
-      "os_growth": "+0.9%",
+      "float": "0.66M ($660.00K)",
+      "os": "2.82M ($2.82M)  [DT]",
+      "os_growth": "+1181.8%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$199.80M",
-      "ev": "$112.10M",
-      "net_cash_sh": "0.69",
-      "inst_own": "39.5%",
-      "caja_meses": "25.8",
-      "header_raw": null,
-      "empresa": "Nautilus Biotechnology, Inc."
-    },
-    {
-      "ticker": "TGE",
-      "ok": true,
-      "float": "13.79M ($13.79M)",
-      "os": "54.80M ($54.80M)  [DT]",
-      "os_growth": "+0.0%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$57.00M",
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": "0.2%",
+      "market_cap": "$3.60M",
+      "ev": "-$2.90M",
+      "net_cash_sh": "2.3",
+      "inst_own": "0.1%",
       "caja_meses": null,
       "header_raw": null,
-      "empresa": "Generation Essentials Group"
+      "empresa": "Webus International"
     }
   ]
 }
