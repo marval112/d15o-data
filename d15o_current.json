@@ -1,8 +1,9 @@
 {
-  "timestamp": "2026-09-30T08:12:27+00:00",
-  "count": 15,
+  "timestamp": "2026-09-30T08:19:07+00:00",
+  "count": 12,
   "tickers": [
     "NCI",
+    "NIVF",
     "KALA",
     "CAPR",
     "FNGR",
@@ -10,15 +11,11 @@
     "RITA",
     "WETO",
     "HKIT",
-    "BCDA",
     "MDXH",
-    "NIVF",
-    "IMNN",
-    "CHOW",
-    "RUBI",
-    "AGNT"
+    "AGNT",
+    "ATCX"
   ],
-  "enriquecidos": 13,
+  "enriquecidos": 10,
   "pendientes": 0,
   "data": [
     {
@@ -36,6 +33,22 @@
       "caja_meses": null,
       "header_raw": null,
       "empresa": "Neo-Concept International Group"
+    },
+    {
+      "ticker": "NIVF",
+      "ok": true,
+      "float": "19.06M ($19.06M)",
+      "os": "20.28M ($20.28M)  [DT]",
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$1.80M",
+      "ev": "$6.60M",
+      "net_cash_sh": "-0.3",
+      "inst_own": "0.4%",
+      "caja_meses": "1.4",
+      "header_raw": null,
+      "empresa": "NewGenIvf Limited"
     },
     {
       "ticker": "KALA",
@@ -150,22 +163,6 @@
       "empresa": "Hitek Global"
     },
     {
-      "ticker": "BCDA",
-      "ok": true,
-      "float": "14.35M ($14.35M)",
-      "os": "15.14M ($15.14M)  [DT]",
-      "os_growth": "+192.3%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$15.60M",
-      "ev": "$13.50M",
-      "net_cash_sh": "0.14",
-      "inst_own": "8.8%",
-      "caja_meses": "4.2",
-      "header_raw": null,
-      "empresa": "BioCardia, Inc."
-    },
-    {
       "ticker": "MDXH",
       "ok": true,
       "float": "82.91M ($82.91M)",
@@ -182,70 +179,6 @@
       "empresa": "MDxHealth SA - ADR"
     },
     {
-      "ticker": "NIVF",
-      "ok": true,
-      "float": "19.06M ($19.06M)",
-      "os": "20.28M ($20.28M)  [DT]",
-      "os_growth": null,
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$1.70M",
-      "ev": "$6.50M",
-      "net_cash_sh": "-0.3",
-      "inst_own": "0.4%",
-      "caja_meses": "1.4",
-      "header_raw": null,
-      "empresa": "NewGenIvf Limited"
-    },
-    {
-      "ticker": "IMNN",
-      "ok": true,
-      "float": "5.60M ($5.60M)",
-      "os": "5.61M ($5.61M)  [DT]",
-      "os_growth": "+240.0%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$7.50M",
-      "ev": "$7.10M",
-      "net_cash_sh": "0.08",
-      "inst_own": "5.7%",
-      "caja_meses": "7.1",
-      "header_raw": null,
-      "empresa": "Imunon"
-    },
-    {
-      "ticker": "CHOW",
-      "ok": true,
-      "float": "11.03M ($11.03M)",
-      "os": "36.35M ($36.35M)  [DT]",
-      "os_growth": "+11.8%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$22.50M",
-      "ev": "$23.10M",
-      "net_cash_sh": "-0.08",
-      "inst_own": "2.2%",
-      "caja_meses": "3.7",
-      "header_raw": null,
-      "empresa": "ChowChow Cloud International Holdings Limited"
-    },
-    {
-      "ticker": "RUBI",
-      "ok": true,
-      "float": "1.79M ($1.79M)",
-      "os": "1.79M ($1.79M)  [DT]",
-      "os_growth": null,
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$2.10M",
-      "ev": "$74.20M",
-      "net_cash_sh": "-40.24",
-      "inst_own": "2.1%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Rubico"
-    },
-    {
       "ticker": "AGNT",
       "ok": false,
       "float": "No disponible (Float & OS: Float & OS: )",
@@ -260,6 +193,22 @@
       "caja_meses": null,
       "header_raw": "Float & OS: Float & OS: )",
       "empresa": "eXp World Holdings, Inc. Common Stock"
+    },
+    {
+      "ticker": "ATCX",
+      "ok": true,
+      "float": "1.87M ($1.87M)",
+      "os": "5.08M ($5.08M)  [DT]",
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": null,
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": "0.8%",
+      "caja_meses": "7.3",
+      "header_raw": null,
+      "empresa": "Atlas Critical Minerals"
     }
   ]
 }
