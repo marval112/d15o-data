@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T09:37:16+00:00",
+  "timestamp": "2026-09-30T09:43:26+00:00",
   "count": 14,
   "tickers": [
     "NIVF",
@@ -7,15 +7,15 @@
     "PLXS",
     "NCI",
     "CAPR",
-    "RITA",
     "RETO",
-    "KALA",
     "FNGR",
+    "KALA",
+    "RITA",
+    "LGHL",
+    "BIYA",
     "MDXH",
     "ATCX",
-    "WETO",
-    "BIYA",
-    "LGHL"
+    "WETO"
   ],
   "enriquecidos": 11,
   "pendientes": 0,
@@ -101,22 +101,6 @@
       "empresa": "Capricor Therapeutics, Inc."
     },
     {
-      "ticker": "RITA",
-      "ok": false,
-      "float": "No disponible (Float & OS: Float & OS: )",
-      "os": null,
-      "os_growth": null,
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": null,
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": null,
-      "caja_meses": null,
-      "header_raw": "Float & OS: Float & OS: )",
-      "empresa": "None"
-    },
-    {
       "ticker": "RETO",
       "ok": true,
       "float": "42.88M ($42.88M)",
@@ -131,6 +115,22 @@
       "caja_meses": "642.9",
       "header_raw": null,
       "empresa": "ReTo Eco-Solutions, Inc."
+    },
+    {
+      "ticker": "FNGR",
+      "ok": true,
+      "float": "66.83M ($66.83M)",
+      "os": "77.98M ($77.98M)  [DT]",
+      "os_growth": "+35.4%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$14.00M",
+      "ev": "$9.20M",
+      "net_cash_sh": "0.06",
+      "inst_own": "1.7%",
+      "caja_meses": "11.1",
+      "header_raw": null,
+      "empresa": "FingerMotion Inc"
     },
     {
       "ticker": "KALA",
@@ -149,20 +149,52 @@
       "empresa": "Kala Pharmaceuticals, Inc."
     },
     {
-      "ticker": "FNGR",
-      "ok": true,
-      "float": "66.83M ($66.83M)",
-      "os": "77.98M ($77.98M)  [DT]",
-      "os_growth": "+35.4%",
+      "ticker": "RITA",
+      "ok": false,
+      "float": "No disponible (Float & OS: Float & OS: )",
+      "os": null,
+      "os_growth": null,
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$14.00M",
-      "ev": "$9.20M",
-      "net_cash_sh": "0.06",
-      "inst_own": "1.7%",
-      "caja_meses": "11.1",
+      "market_cap": null,
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": null,
+      "caja_meses": null,
+      "header_raw": "Float & OS: Float & OS: )",
+      "empresa": "None"
+    },
+    {
+      "ticker": "LGHL",
+      "ok": true,
+      "float": "0.05M ($50.00K)",
+      "os": "0.05M ($50.00K)  [DT]",
+      "os_growth": "+20675.0%",
+      "dil_instr": "26",
+      "dil_tipos": "Convertible Note, Convertible Preferred, Shelf, Warrant",
+      "market_cap": "$200.00K",
+      "ev": "-$22.40M",
+      "net_cash_sh": "491.05",
+      "inst_own": "60.0%",
+      "caja_meses": "139.5",
       "header_raw": null,
-      "empresa": "FingerMotion Inc"
+      "empresa": "Lion Group Holding Ltd."
+    },
+    {
+      "ticker": "BIYA",
+      "ok": true,
+      "float": "5.00M ($5.00M)",
+      "os": "6.35M ($6.35M)  [DT]",
+      "os_growth": "+6955.6%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$15.00M",
+      "ev": "$10.40M",
+      "net_cash_sh": "0.73",
+      "inst_own": "0.2%",
+      "caja_meses": "159.9",
+      "header_raw": null,
+      "empresa": "Baiya International Group"
     },
     {
       "ticker": "MDXH",
@@ -211,38 +243,6 @@
       "caja_meses": null,
       "header_raw": null,
       "empresa": "Webus International"
-    },
-    {
-      "ticker": "BIYA",
-      "ok": true,
-      "float": "5.00M ($5.00M)",
-      "os": "6.35M ($6.35M)  [DT]",
-      "os_growth": "+6955.6%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$15.00M",
-      "ev": "$10.40M",
-      "net_cash_sh": "0.73",
-      "inst_own": "0.2%",
-      "caja_meses": "159.9",
-      "header_raw": null,
-      "empresa": "Baiya International Group"
-    },
-    {
-      "ticker": "LGHL",
-      "ok": true,
-      "float": "0.05M ($50.00K)",
-      "os": "0.05M ($50.00K)  [DT]",
-      "os_growth": "+20675.0%",
-      "dil_instr": "26",
-      "dil_tipos": "Convertible Note, Convertible Preferred, Shelf, Warrant",
-      "market_cap": "$200.00K",
-      "ev": "-$22.40M",
-      "net_cash_sh": "491.05",
-      "inst_own": "60.0%",
-      "caja_meses": "139.5",
-      "header_raw": null,
-      "empresa": "Lion Group Holding Ltd."
     }
   ]
 }
