@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-09-30T12:03:07+00:00",
+  "timestamp": "2026-09-30T12:09:59+00:00",
   "count": 15,
   "tickers": [
     "ZCSH",
     "NIVF",
     "CNTB",
+    "HOOC",
     "LGHL",
     "NCI",
-    "FFR",
     "VBIO",
-    "RITA",
+    "FFR",
     "RETO",
+    "RITA",
+    "IEZ",
     "BVC",
-    "NCPL",
     "TGE",
-    "ATXG",
     "BIYA",
-    "WETO"
+    "ATXG"
   ],
-  "enriquecidos": 12,
+  "enriquecidos": 10,
   "pendientes": 0,
   "data": [
     {
@@ -70,6 +70,22 @@
       "empresa": "Connect Biopharma Holdings Limited"
     },
     {
+      "ticker": "HOOC",
+      "ok": false,
+      "float": "No disponible (Float & OS: Float & OS: )",
+      "os": null,
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": null,
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": null,
+      "caja_meses": null,
+      "header_raw": "Float & OS: Float & OS: )",
+      "empresa": "None"
+    },
+    {
       "ticker": "LGHL",
       "ok": true,
       "float": "0.05M ($50.00K)",
@@ -102,22 +118,6 @@
       "empresa": "Neo-Concept International Group"
     },
     {
-      "ticker": "FFR",
-      "ok": false,
-      "float": "No disponible (Float & OS: Float & OS: )",
-      "os": null,
-      "os_growth": null,
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": null,
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": null,
-      "caja_meses": null,
-      "header_raw": "Float & OS: Float & OS: )",
-      "empresa": "None"
-    },
-    {
       "ticker": "VBIO",
       "ok": true,
       "float": "1.28M ($1.28M)",
@@ -134,7 +134,7 @@
       "empresa": "Valion Bio"
     },
     {
-      "ticker": "RITA",
+      "ticker": "FFR",
       "ok": false,
       "float": "No disponible (Float & OS: Float & OS: )",
       "os": null,
@@ -166,6 +166,38 @@
       "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
+      "ticker": "RITA",
+      "ok": false,
+      "float": "No disponible (Float & OS: Float & OS: )",
+      "os": null,
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": null,
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": null,
+      "caja_meses": null,
+      "header_raw": "Float & OS: Float & OS: )",
+      "empresa": "None"
+    },
+    {
+      "ticker": "IEZ",
+      "ok": false,
+      "float": "No disponible (Float & OS: Float & OS: )",
+      "os": null,
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": null,
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": null,
+      "caja_meses": null,
+      "header_raw": "Float & OS: Float & OS: )",
+      "empresa": "None"
+    },
+    {
       "ticker": "BVC",
       "ok": true,
       "float": "0.81M ($810.00K)",
@@ -180,22 +212,6 @@
       "caja_meses": null,
       "header_raw": null,
       "empresa": "BitVentures"
-    },
-    {
-      "ticker": "NCPL",
-      "ok": true,
-      "float": "7.85M ($7.85M)",
-      "os": "7.85M ($7.85M)  [DT]",
-      "os_growth": "+239.8%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$11.10M",
-      "ev": "$13.60M",
-      "net_cash_sh": "-1.1",
-      "inst_own": "4.3%",
-      "caja_meses": "7.3",
-      "header_raw": null,
-      "empresa": "Netcapital"
     },
     {
       "ticker": "TGE",
@@ -214,22 +230,6 @@
       "empresa": "Generation Essentials Group"
     },
     {
-      "ticker": "ATXG",
-      "ok": true,
-      "float": "1.97M ($1.97M)",
-      "os": "2.63M ($2.63M)  [DT]",
-      "os_growth": "+292.7%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$8.90M",
-      "ev": "$4.60M",
-      "net_cash_sh": "1.63",
-      "inst_own": "0.8%",
-      "caja_meses": "752.2",
-      "header_raw": null,
-      "empresa": "Addentax Group"
-    },
-    {
       "ticker": "BIYA",
       "ok": true,
       "float": "5.00M ($5.00M)",
@@ -246,20 +246,20 @@
       "empresa": "Baiya International Group"
     },
     {
-      "ticker": "WETO",
+      "ticker": "ATXG",
       "ok": true,
-      "float": "0.66M ($660.00K)",
-      "os": "2.82M ($2.82M)  [DT]",
-      "os_growth": "+1181.8%",
+      "float": "1.97M ($1.97M)",
+      "os": "2.63M ($2.63M)  [DT]",
+      "os_growth": "+292.7%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$3.60M",
-      "ev": "-$2.90M",
-      "net_cash_sh": "2.3",
-      "inst_own": "0.1%",
-      "caja_meses": null,
+      "market_cap": "$8.90M",
+      "ev": "$4.60M",
+      "net_cash_sh": "1.63",
+      "inst_own": "0.8%",
+      "caja_meses": "752.2",
       "header_raw": null,
-      "empresa": "Webus International"
+      "empresa": "Addentax Group"
     }
   ]
 }
