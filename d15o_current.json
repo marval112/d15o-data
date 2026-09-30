@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-30T09:11:48+00:00",
-  "count": 12,
+  "timestamp": "2026-09-30T09:17:57+00:00",
+  "count": 11,
   "tickers": [
     "NIVF",
     "NCI",
@@ -8,14 +8,13 @@
     "PLXS",
     "CAPR",
     "RITA",
-    "FNGR",
     "KALA",
+    "FNGR",
     "ATCX",
-    "BIYA",
     "MDXH",
-    "WETO"
+    "RETO"
   ],
-  "enriquecidos": 9,
+  "enriquecidos": 8,
   "pendientes": 0,
   "data": [
     {
@@ -115,22 +114,6 @@
       "empresa": "None"
     },
     {
-      "ticker": "FNGR",
-      "ok": true,
-      "float": "66.83M ($66.83M)",
-      "os": "77.98M ($77.98M)  [DT]",
-      "os_growth": "+35.4%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$14.00M",
-      "ev": "$9.20M",
-      "net_cash_sh": "0.06",
-      "inst_own": "1.7%",
-      "caja_meses": "11.1",
-      "header_raw": null,
-      "empresa": "FingerMotion Inc"
-    },
-    {
       "ticker": "KALA",
       "ok": true,
       "float": "19.34M ($19.34M)",
@@ -145,6 +128,22 @@
       "caja_meses": "6.7",
       "header_raw": null,
       "empresa": "Kala Pharmaceuticals, Inc."
+    },
+    {
+      "ticker": "FNGR",
+      "ok": true,
+      "float": "66.83M ($66.83M)",
+      "os": "77.98M ($77.98M)  [DT]",
+      "os_growth": "+35.4%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$14.00M",
+      "ev": "$9.20M",
+      "net_cash_sh": "0.06",
+      "inst_own": "1.7%",
+      "caja_meses": "11.1",
+      "header_raw": null,
+      "empresa": "FingerMotion Inc"
     },
     {
       "ticker": "ATCX",
@@ -163,22 +162,6 @@
       "empresa": "Atlas Critical Minerals"
     },
     {
-      "ticker": "BIYA",
-      "ok": true,
-      "float": "5.00M ($5.00M)",
-      "os": "6.35M ($6.35M)  [DT]",
-      "os_growth": "+6955.6%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$15.60M",
-      "ev": "$10.90M",
-      "net_cash_sh": "0.73",
-      "inst_own": "0.2%",
-      "caja_meses": "159.9",
-      "header_raw": null,
-      "empresa": "Baiya International Group"
-    },
-    {
       "ticker": "MDXH",
       "ok": true,
       "float": "82.91M ($82.91M)",
@@ -195,20 +178,20 @@
       "empresa": "MDxHealth SA - ADR"
     },
     {
-      "ticker": "WETO",
+      "ticker": "RETO",
       "ok": true,
-      "float": "0.66M ($660.00K)",
-      "os": "2.82M ($2.82M)  [DT]",
-      "os_growth": "+1181.8%",
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$3.60M",
-      "ev": "-$2.80M",
-      "net_cash_sh": "2.3",
-      "inst_own": "0.1%",
-      "caja_meses": null,
+      "market_cap": "$4.70M",
+      "ev": "-$12.20M",
+      "net_cash_sh": "0.38",
+      "inst_own": null,
+      "caja_meses": "642.9",
       "header_raw": null,
-      "empresa": "Webus International"
+      "empresa": "ReTo Eco-Solutions, Inc."
     }
   ]
 }
