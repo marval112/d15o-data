@@ -1,24 +1,23 @@
 {
-  "timestamp": "2026-09-30T12:37:09+00:00",
-  "count": 15,
+  "timestamp": "2026-09-30T12:43:10+00:00",
+  "count": 14,
   "tickers": [
     "ZCSH",
     "NIVF",
     "CNTB",
     "LGHL",
-    "FRGT",
+    "VBIO",
     "NCI",
+    "FRGT",
     "FFR",
     "RITA",
-    "VBIO",
     "RETO",
     "TGE",
-    "WETO",
     "NAUT",
     "BVC",
-    "BIYA"
+    "WETO"
   ],
-  "enriquecidos": 12,
+  "enriquecidos": 11,
   "pendientes": 0,
   "data": [
     {
@@ -86,20 +85,20 @@
       "empresa": "Lion Group Holding Ltd."
     },
     {
-      "ticker": "FRGT",
+      "ticker": "VBIO",
       "ok": true,
-      "float": "0.57M ($570.00K)",
-      "os": "0.57M ($570.00K)  [DT]",
-      "os_growth": "+533.3%",
-      "dil_instr": "24",
-      "dil_tipos": "ATM, Convertible Note, Convertible Preferred, Equity Line, Shelf, Warrant",
-      "market_cap": "$200.00K",
-      "ev": "$3.70M",
-      "net_cash_sh": "-7.45",
-      "inst_own": "0.5%",
-      "caja_meses": "2.2",
+      "float": "1.28M ($1.28M)",
+      "os": "1.29M ($1.29M)  [DT]",
+      "os_growth": "+3552.3%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$4.50M",
+      "ev": "$21.90M",
+      "net_cash_sh": "-15.71",
+      "inst_own": "1.2%",
+      "caja_meses": "1.7",
       "header_raw": null,
-      "empresa": "Freight Technologies"
+      "empresa": "Valion Bio"
     },
     {
       "ticker": "NCI",
@@ -116,6 +115,22 @@
       "caja_meses": null,
       "header_raw": null,
       "empresa": "Neo-Concept International Group"
+    },
+    {
+      "ticker": "FRGT",
+      "ok": true,
+      "float": "0.57M ($570.00K)",
+      "os": "0.57M ($570.00K)  [DT]",
+      "os_growth": "+533.3%",
+      "dil_instr": "24",
+      "dil_tipos": "ATM, Convertible Note, Convertible Preferred, Equity Line, Shelf, Warrant",
+      "market_cap": "$200.00K",
+      "ev": "$3.70M",
+      "net_cash_sh": "-7.45",
+      "inst_own": "0.5%",
+      "caja_meses": "2.2",
+      "header_raw": null,
+      "empresa": "Freight Technologies"
     },
     {
       "ticker": "FFR",
@@ -150,22 +165,6 @@
       "empresa": "None"
     },
     {
-      "ticker": "VBIO",
-      "ok": true,
-      "float": "1.28M ($1.28M)",
-      "os": "1.29M ($1.29M)  [DT]",
-      "os_growth": "+3552.3%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$4.50M",
-      "ev": "$21.90M",
-      "net_cash_sh": "-15.71",
-      "inst_own": "1.2%",
-      "caja_meses": "1.7",
-      "header_raw": null,
-      "empresa": "Valion Bio"
-    },
-    {
       "ticker": "RETO",
       "ok": true,
       "float": "42.88M ($42.88M)",
@@ -196,22 +195,6 @@
       "caja_meses": null,
       "header_raw": null,
       "empresa": "Generation Essentials Group"
-    },
-    {
-      "ticker": "WETO",
-      "ok": true,
-      "float": "0.66M ($660.00K)",
-      "os": "2.82M ($2.82M)  [DT]",
-      "os_growth": "+1181.8%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$3.60M",
-      "ev": "-$2.90M",
-      "net_cash_sh": "2.3",
-      "inst_own": "0.1%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Webus International"
     },
     {
       "ticker": "NAUT",
@@ -246,20 +229,20 @@
       "empresa": "BitVentures"
     },
     {
-      "ticker": "BIYA",
+      "ticker": "WETO",
       "ok": true,
-      "float": "5.00M ($5.00M)",
-      "os": "6.35M ($6.35M)  [DT]",
-      "os_growth": "+6955.6%",
+      "float": "0.66M ($660.00K)",
+      "os": "2.82M ($2.82M)  [DT]",
+      "os_growth": "+1181.8%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$15.00M",
-      "ev": "$10.20M",
-      "net_cash_sh": "0.76",
-      "inst_own": "0.2%",
-      "caja_meses": "159.9",
+      "market_cap": "$3.60M",
+      "ev": "-$2.90M",
+      "net_cash_sh": "2.3",
+      "inst_own": "0.1%",
+      "caja_meses": null,
       "header_raw": null,
-      "empresa": "Baiya International Group"
+      "empresa": "Webus International"
     }
   ]
 }
