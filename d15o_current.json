@@ -1,21 +1,22 @@
 {
-  "timestamp": "2026-09-30T08:31:59+00:00",
-  "count": 12,
+  "timestamp": "2026-09-30T08:38:44+00:00",
+  "count": 13,
   "tickers": [
     "NIVF",
     "NCI",
     "KALA",
     "CAPR",
     "RITA",
+    "WETO",
     "BIYA",
+    "RETO",
     "HKIT",
     "FNGR",
-    "WETO",
     "MDXH",
-    "AGNT",
+    "ZBAO",
     "ATCX"
   ],
-  "enriquecidos": 10,
+  "enriquecidos": 12,
   "pendientes": 0,
   "data": [
     {
@@ -99,6 +100,22 @@
       "empresa": "None"
     },
     {
+      "ticker": "WETO",
+      "ok": true,
+      "float": "0.66M ($660.00K)",
+      "os": "2.82M ($2.82M)  [DT]",
+      "os_growth": "+1181.8%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$4.30M",
+      "ev": "-$2.20M",
+      "net_cash_sh": "2.3",
+      "inst_own": "0.1%",
+      "caja_meses": null,
+      "header_raw": null,
+      "empresa": "Webus International"
+    },
+    {
       "ticker": "BIYA",
       "ok": true,
       "float": "5.00M ($5.00M)",
@@ -113,6 +130,22 @@
       "caja_meses": "159.9",
       "header_raw": null,
       "empresa": "Baiya International Group"
+    },
+    {
+      "ticker": "RETO",
+      "ok": true,
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$5.10M",
+      "ev": "-$11.80M",
+      "net_cash_sh": "0.38",
+      "inst_own": null,
+      "caja_meses": "642.9",
+      "header_raw": null,
+      "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
       "ticker": "HKIT",
@@ -147,22 +180,6 @@
       "empresa": "FingerMotion Inc"
     },
     {
-      "ticker": "WETO",
-      "ok": true,
-      "float": "0.66M ($660.00K)",
-      "os": "2.82M ($2.82M)  [DT]",
-      "os_growth": "+1181.8%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$4.30M",
-      "ev": "-$2.20M",
-      "net_cash_sh": "2.3",
-      "inst_own": "0.1%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Webus International"
-    },
-    {
       "ticker": "MDXH",
       "ok": true,
       "float": "82.91M ($82.91M)",
@@ -179,20 +196,20 @@
       "empresa": "MDxHealth SA - ADR"
     },
     {
-      "ticker": "AGNT",
-      "ok": false,
-      "float": "No disponible (Float & OS: Float & OS: )",
-      "os": null,
-      "os_growth": null,
+      "ticker": "ZBAO",
+      "ok": true,
+      "float": "453.29M ($453.29M)",
+      "os": "476.06M ($476.06M)  [DT]",
+      "os_growth": "+1346.1%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$898.90M",
-      "ev": "$787.80M",
-      "net_cash_sh": "0.67",
-      "inst_own": "39.8%",
-      "caja_meses": null,
-      "header_raw": "Float & OS: Float & OS: )",
-      "empresa": "eXp World Holdings, Inc. Common Stock"
+      "market_cap": "$42.90M",
+      "ev": "-$119.10M",
+      "net_cash_sh": "0.34",
+      "inst_own": null,
+      "caja_meses": "561.6",
+      "header_raw": null,
+      "empresa": "Zhibao Technology"
     },
     {
       "ticker": "ATCX",
