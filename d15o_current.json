@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-09-30T10:14:52+00:00",
+  "timestamp": "2026-09-30T10:21:14+00:00",
   "count": 15,
   "tickers": [
     "NIVF",
     "PLXS",
-    "VC",
-    "NCI",
-    "LGHL",
     "RETO",
-    "CAPR",
+    "NCI",
     "FFR",
+    "LGHL",
+    "CAPR",
     "RITA",
-    "FNGR",
     "KALA",
-    "BIYA",
+    "FNGR",
     "WETO",
     "MDXH",
-    "ATCX"
+    "SGMT",
+    "ATCX",
+    "BIYA"
   ],
-  "enriquecidos": 11,
+  "enriquecidos": 12,
   "pendientes": 0,
   "data": [
     {
@@ -54,20 +54,20 @@
       "empresa": "Plexus Corp."
     },
     {
-      "ticker": "VC",
-      "ok": false,
-      "float": "No disponible (Float & OS: Float & OS: )",
-      "os": null,
-      "os_growth": null,
+      "ticker": "RETO",
+      "ok": true,
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$2.66B",
-      "ev": "$2.44B",
-      "net_cash_sh": "7.99",
-      "inst_own": "120.7%",
-      "caja_meses": null,
-      "header_raw": "Float & OS: Float & OS: )",
-      "empresa": "Visteon Corporation"
+      "market_cap": "$4.70M",
+      "ev": "-$12.20M",
+      "net_cash_sh": "0.38",
+      "inst_own": null,
+      "caja_meses": "642.9",
+      "header_raw": null,
+      "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
       "ticker": "NCI",
@@ -86,6 +86,22 @@
       "empresa": "Neo-Concept International Group"
     },
     {
+      "ticker": "FFR",
+      "ok": false,
+      "float": "No disponible (Float & OS: Float & OS: )",
+      "os": null,
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": null,
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": null,
+      "caja_meses": null,
+      "header_raw": "Float & OS: Float & OS: )",
+      "empresa": "None"
+    },
+    {
       "ticker": "LGHL",
       "ok": true,
       "float": "0.05M ($50.00K)",
@@ -100,22 +116,6 @@
       "caja_meses": "139.5",
       "header_raw": null,
       "empresa": "Lion Group Holding Ltd."
-    },
-    {
-      "ticker": "RETO",
-      "ok": true,
-      "float": "42.88M ($42.88M)",
-      "os": "43.88M ($43.88M)  [DT]",
-      "os_growth": "+18183.3%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$4.70M",
-      "ev": "-$12.20M",
-      "net_cash_sh": "0.38",
-      "inst_own": null,
-      "caja_meses": "642.9",
-      "header_raw": null,
-      "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
       "ticker": "CAPR",
@@ -134,22 +134,6 @@
       "empresa": "Capricor Therapeutics, Inc."
     },
     {
-      "ticker": "FFR",
-      "ok": false,
-      "float": "No disponible (Float & OS: Float & OS: )",
-      "os": null,
-      "os_growth": null,
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": null,
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": null,
-      "caja_meses": null,
-      "header_raw": "Float & OS: Float & OS: )",
-      "empresa": "None"
-    },
-    {
       "ticker": "RITA",
       "ok": false,
       "float": "No disponible (Float & OS: Float & OS: )",
@@ -164,22 +148,6 @@
       "caja_meses": null,
       "header_raw": "Float & OS: Float & OS: )",
       "empresa": "None"
-    },
-    {
-      "ticker": "FNGR",
-      "ok": true,
-      "float": "66.83M ($66.83M)",
-      "os": "77.98M ($77.98M)  [DT]",
-      "os_growth": "+35.4%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$14.00M",
-      "ev": "$9.20M",
-      "net_cash_sh": "0.06",
-      "inst_own": "1.7%",
-      "caja_meses": "11.1",
-      "header_raw": null,
-      "empresa": "FingerMotion Inc"
     },
     {
       "ticker": "KALA",
@@ -198,20 +166,20 @@
       "empresa": "Kala Pharmaceuticals, Inc."
     },
     {
-      "ticker": "BIYA",
+      "ticker": "FNGR",
       "ok": true,
-      "float": "5.00M ($5.00M)",
-      "os": "6.35M ($6.35M)  [DT]",
-      "os_growth": "+6955.6%",
+      "float": "66.83M ($66.83M)",
+      "os": "77.98M ($77.98M)  [DT]",
+      "os_growth": "+35.4%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$15.00M",
-      "ev": "$10.40M",
-      "net_cash_sh": "0.73",
-      "inst_own": "0.2%",
-      "caja_meses": "159.9",
+      "market_cap": "$14.00M",
+      "ev": "$9.20M",
+      "net_cash_sh": "0.06",
+      "inst_own": "1.7%",
+      "caja_meses": "11.1",
       "header_raw": null,
-      "empresa": "Baiya International Group"
+      "empresa": "FingerMotion Inc"
     },
     {
       "ticker": "WETO",
@@ -246,6 +214,22 @@
       "empresa": "MDxHealth SA - ADR"
     },
     {
+      "ticker": "SGMT",
+      "ok": true,
+      "float": "52.96M ($52.96M)",
+      "os": "62.16M ($62.16M)  [DT]",
+      "os_growth": "+93.0%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$674.80M",
+      "ev": "$429.20M",
+      "net_cash_sh": "3.95",
+      "inst_own": "82.2%",
+      "caja_meses": "75.3",
+      "header_raw": null,
+      "empresa": "Sagimet Biosceinces"
+    },
+    {
       "ticker": "ATCX",
       "ok": true,
       "float": "1.87M ($1.87M)",
@@ -260,6 +244,22 @@
       "caja_meses": "7.3",
       "header_raw": null,
       "empresa": "Atlas Critical Minerals"
+    },
+    {
+      "ticker": "BIYA",
+      "ok": true,
+      "float": "5.00M ($5.00M)",
+      "os": "6.35M ($6.35M)  [DT]",
+      "os_growth": "+6955.6%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$15.00M",
+      "ev": "$10.40M",
+      "net_cash_sh": "0.73",
+      "inst_own": "0.2%",
+      "caja_meses": "159.9",
+      "header_raw": null,
+      "empresa": "Baiya International Group"
     }
   ]
 }
