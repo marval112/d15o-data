@@ -1,23 +1,22 @@
 {
-  "timestamp": "2026-09-30T10:40:07+00:00",
-  "count": 14,
+  "timestamp": "2026-09-30T10:46:08+00:00",
+  "count": 13,
   "tickers": [
     "NIVF",
     "LGHL",
     "NCI",
     "FFR",
-    "RETO",
-    "TGE",
-    "RITA",
-    "CAPR",
     "KALA",
+    "RETO",
+    "RITA",
     "FNGR",
+    "CAPR",
     "BIYA",
+    "TGE",
     "MDXH",
-    "ATCX",
-    "WETO"
+    "ATCX"
   ],
-  "enriquecidos": 12,
+  "enriquecidos": 11,
   "pendientes": 0,
   "data": [
     {
@@ -85,6 +84,22 @@
       "empresa": "None"
     },
     {
+      "ticker": "KALA",
+      "ok": true,
+      "float": "19.34M ($19.34M)",
+      "os": "19.34M ($19.34M)  [DT]",
+      "os_growth": "+14776.9%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$14.80M",
+      "ev": "$9.80M",
+      "net_cash_sh": "0.26",
+      "inst_own": "3.2%",
+      "caja_meses": "6.7",
+      "header_raw": null,
+      "empresa": "Kala Pharmaceuticals, Inc."
+    },
+    {
       "ticker": "RETO",
       "ok": true,
       "float": "42.88M ($42.88M)",
@@ -99,22 +114,6 @@
       "caja_meses": "642.9",
       "header_raw": null,
       "empresa": "ReTo Eco-Solutions, Inc."
-    },
-    {
-      "ticker": "TGE",
-      "ok": true,
-      "float": "13.79M ($13.79M)",
-      "os": "54.80M ($54.80M)  [DT]",
-      "os_growth": "+0.0%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$57.00M",
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": "0.2%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Generation Essentials Group"
     },
     {
       "ticker": "RITA",
@@ -133,38 +132,6 @@
       "empresa": "None"
     },
     {
-      "ticker": "CAPR",
-      "ok": true,
-      "float": "50.48M ($50.48M)",
-      "os": "58.14M ($58.14M)  [DT]",
-      "os_growth": "+27.2%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$619.60M",
-      "ev": "$503.80M",
-      "net_cash_sh": "1.99",
-      "inst_own": "67.1%",
-      "caja_meses": "20.4",
-      "header_raw": null,
-      "empresa": "Capricor Therapeutics, Inc."
-    },
-    {
-      "ticker": "KALA",
-      "ok": true,
-      "float": "19.34M ($19.34M)",
-      "os": "19.34M ($19.34M)  [DT]",
-      "os_growth": "+14776.9%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$14.80M",
-      "ev": "$9.80M",
-      "net_cash_sh": "0.26",
-      "inst_own": "3.2%",
-      "caja_meses": "6.7",
-      "header_raw": null,
-      "empresa": "Kala Pharmaceuticals, Inc."
-    },
-    {
       "ticker": "FNGR",
       "ok": true,
       "float": "66.83M ($66.83M)",
@@ -181,6 +148,22 @@
       "empresa": "FingerMotion Inc"
     },
     {
+      "ticker": "CAPR",
+      "ok": true,
+      "float": "50.48M ($50.48M)",
+      "os": "58.14M ($58.14M)  [DT]",
+      "os_growth": "+27.2%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$619.60M",
+      "ev": "$503.80M",
+      "net_cash_sh": "1.99",
+      "inst_own": "67.1%",
+      "caja_meses": "20.4",
+      "header_raw": null,
+      "empresa": "Capricor Therapeutics, Inc."
+    },
+    {
       "ticker": "BIYA",
       "ok": true,
       "float": "5.00M ($5.00M)",
@@ -195,6 +178,22 @@
       "caja_meses": "159.9",
       "header_raw": null,
       "empresa": "Baiya International Group"
+    },
+    {
+      "ticker": "TGE",
+      "ok": true,
+      "float": "13.79M ($13.79M)",
+      "os": "54.80M ($54.80M)  [DT]",
+      "os_growth": "+0.0%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$57.00M",
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": "0.2%",
+      "caja_meses": null,
+      "header_raw": null,
+      "empresa": "Generation Essentials Group"
     },
     {
       "ticker": "MDXH",
@@ -227,22 +226,6 @@
       "caja_meses": "7.3",
       "header_raw": null,
       "empresa": "Atlas Critical Minerals"
-    },
-    {
-      "ticker": "WETO",
-      "ok": true,
-      "float": "0.66M ($660.00K)",
-      "os": "2.82M ($2.82M)  [DT]",
-      "os_growth": "+1181.8%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$3.60M",
-      "ev": "-$2.90M",
-      "net_cash_sh": "2.3",
-      "inst_own": "0.1%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Webus International"
     }
   ]
 }
