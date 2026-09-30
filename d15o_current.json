@@ -1,39 +1,24 @@
 {
-  "timestamp": "2026-09-30T08:19:07+00:00",
-  "count": 12,
+  "timestamp": "2026-09-30T08:25:50+00:00",
+  "count": 13,
   "tickers": [
-    "NCI",
     "NIVF",
+    "NCI",
     "KALA",
     "CAPR",
+    "INLX",
     "FNGR",
-    "BIYA",
     "RITA",
     "WETO",
+    "BIYA",
     "HKIT",
     "MDXH",
     "AGNT",
-    "ATCX"
+    "NCT"
   ],
-  "enriquecidos": 10,
+  "enriquecidos": 11,
   "pendientes": 0,
   "data": [
-    {
-      "ticker": "NCI",
-      "ok": true,
-      "float": "2.46M ($2.46M)",
-      "os": "2.50M ($2.50M)  [DT]",
-      "os_growth": "+390.2%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$5.50M",
-      "ev": "$1.40M",
-      "net_cash_sh": "1.63",
-      "inst_own": "5.0%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Neo-Concept International Group"
-    },
     {
       "ticker": "NIVF",
       "ok": true,
@@ -49,6 +34,22 @@
       "caja_meses": "1.4",
       "header_raw": null,
       "empresa": "NewGenIvf Limited"
+    },
+    {
+      "ticker": "NCI",
+      "ok": true,
+      "float": "2.46M ($2.46M)",
+      "os": "2.50M ($2.50M)  [DT]",
+      "os_growth": "+390.2%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$5.50M",
+      "ev": "$1.40M",
+      "net_cash_sh": "1.63",
+      "inst_own": "5.0%",
+      "caja_meses": null,
+      "header_raw": null,
+      "empresa": "Neo-Concept International Group"
     },
     {
       "ticker": "KALA",
@@ -83,6 +84,22 @@
       "empresa": "Capricor Therapeutics, Inc."
     },
     {
+      "ticker": "INLX",
+      "ok": true,
+      "float": "2.86M ($2.86M)",
+      "os": "4.49M ($4.49M)  [DT]",
+      "os_growth": "+4.2%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$24.00M",
+      "ev": "$24.00M",
+      "net_cash_sh": "0.01",
+      "inst_own": "10.5%",
+      "caja_meses": "53.9",
+      "header_raw": null,
+      "empresa": "Intellinetics"
+    },
+    {
       "ticker": "FNGR",
       "ok": true,
       "float": "66.83M ($66.83M)",
@@ -97,22 +114,6 @@
       "caja_meses": "11.1",
       "header_raw": null,
       "empresa": "FingerMotion Inc"
-    },
-    {
-      "ticker": "BIYA",
-      "ok": true,
-      "float": "5.00M ($5.00M)",
-      "os": "6.35M ($6.35M)  [DT]",
-      "os_growth": "+6955.6%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$15.60M",
-      "ev": "$10.90M",
-      "net_cash_sh": "0.73",
-      "inst_own": "0.2%",
-      "caja_meses": "159.9",
-      "header_raw": null,
-      "empresa": "Baiya International Group"
     },
     {
       "ticker": "RITA",
@@ -145,6 +146,22 @@
       "caja_meses": null,
       "header_raw": null,
       "empresa": "Webus International"
+    },
+    {
+      "ticker": "BIYA",
+      "ok": true,
+      "float": "5.00M ($5.00M)",
+      "os": "6.35M ($6.35M)  [DT]",
+      "os_growth": "+6955.6%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$15.60M",
+      "ev": "$10.90M",
+      "net_cash_sh": "0.73",
+      "inst_own": "0.2%",
+      "caja_meses": "159.9",
+      "header_raw": null,
+      "empresa": "Baiya International Group"
     },
     {
       "ticker": "HKIT",
@@ -195,20 +212,20 @@
       "empresa": "eXp World Holdings, Inc. Common Stock"
     },
     {
-      "ticker": "ATCX",
+      "ticker": "NCT",
       "ok": true,
-      "float": "1.87M ($1.87M)",
-      "os": "5.08M ($5.08M)  [DT]",
-      "os_growth": null,
+      "float": "0.33M ($330.00K)",
+      "os": "0.46M ($460.00K)  [DT]",
+      "os_growth": "+959.7%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": null,
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": "0.8%",
-      "caja_meses": "7.3",
+      "market_cap": "$1.00M",
+      "ev": "$15.50M",
+      "net_cash_sh": "-33.12",
+      "inst_own": "0.1%",
+      "caja_meses": "0.5",
       "header_raw": null,
-      "empresa": "Atlas Critical Minerals"
+      "empresa": "Intercont"
     }
   ]
 }
