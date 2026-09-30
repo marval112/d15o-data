@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T12:54:58+00:00",
+  "timestamp": "2026-09-30T12:55:08+00:00",
   "count": 13,
   "tickers": [
     "ZCSH",
@@ -16,8 +16,8 @@
     "FFR",
     "NAUT"
   ],
-  "enriquecidos": 9,
-  "pendientes": 1,
+  "enriquecidos": 10,
+  "pendientes": 0,
   "data": [
     {
       "ticker": "ZCSH",
@@ -333,18 +333,29 @@
     },
     {
       "ticker": "NAUT",
-      "ok": false,
-      "pendiente": true,
-      "float_m": null,
-      "os_m": null,
-      "market_cap_m": null,
-      "ev_m": null,
-      "os_growth_pct": null,
+      "ok": true,
+      "float": "63.18M ($63.18M)",
+      "os": "127.26M ($127.26M)  [DT]",
+      "os_growth": "+0.9%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$207.40M",
+      "ev": "$119.90M",
+      "net_cash_sh": "0.69",
+      "inst_own": "39.5%",
+      "caja_meses": "25.8",
+      "header_raw": null,
+      "empresa": "Nautilus Biotechnology, Inc.",
+      "float_m": 63.18,
+      "os_m": 127.26,
+      "market_cap_m": 207.4,
+      "ev_m": 119.9,
+      "os_growth_pct": 0.9,
       "dil_instr_n": null,
-      "float_pct_os": null,
-      "float_os_ratio": null,
-      "ev_mc_ratio": null,
-      "cash_neto_m": null
+      "float_pct_os": 49.65,
+      "float_os_ratio": 0.4965,
+      "ev_mc_ratio": 0.5781,
+      "cash_neto_m": 87.5
     }
   ]
 }
