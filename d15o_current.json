@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-30T11:37:17+00:00",
-  "count": 16,
+  "timestamp": "2026-09-30T11:43:48+00:00",
+  "count": 15,
   "tickers": [
     "ZCSH",
     "NIVF",
@@ -10,16 +10,15 @@
     "FFR",
     "RETO",
     "RITA",
-    "KALA",
-    "NCPL",
-    "NAUT",
-    "FNGR",
     "TGE",
-    "ATXG",
+    "NCPL",
     "BVC",
-    "BIYA"
+    "KALA",
+    "ATXG",
+    "BIYA",
+    "FNGR"
   ],
-  "enriquecidos": 13,
+  "enriquecidos": 12,
   "pendientes": 0,
   "data": [
     {
@@ -151,20 +150,20 @@
       "empresa": "None"
     },
     {
-      "ticker": "KALA",
+      "ticker": "TGE",
       "ok": true,
-      "float": "19.34M ($19.34M)",
-      "os": "19.34M ($19.34M)  [DT]",
-      "os_growth": "+14776.9%",
+      "float": "13.79M ($13.79M)",
+      "os": "54.80M ($54.80M)  [DT]",
+      "os_growth": "+0.0%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$14.80M",
-      "ev": "$9.80M",
-      "net_cash_sh": "0.26",
-      "inst_own": "3.2%",
-      "caja_meses": "6.7",
+      "market_cap": "$57.00M",
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": "0.2%",
+      "caja_meses": null,
       "header_raw": null,
-      "empresa": "Kala Pharmaceuticals, Inc."
+      "empresa": "Generation Essentials Group"
     },
     {
       "ticker": "NCPL",
@@ -183,52 +182,36 @@
       "empresa": "Netcapital"
     },
     {
-      "ticker": "NAUT",
+      "ticker": "BVC",
       "ok": true,
-      "float": "63.18M ($63.18M)",
-      "os": "127.26M ($127.26M)  [DT]",
-      "os_growth": "+0.9%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$202.30M",
-      "ev": "$114.70M",
-      "net_cash_sh": "0.69",
-      "inst_own": "39.5%",
-      "caja_meses": "25.8",
-      "header_raw": null,
-      "empresa": "Nautilus Biotechnology, Inc."
-    },
-    {
-      "ticker": "FNGR",
-      "ok": true,
-      "float": "66.83M ($66.83M)",
-      "os": "77.98M ($77.98M)  [DT]",
-      "os_growth": "+35.4%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$12.50M",
-      "ev": "$7.70M",
-      "net_cash_sh": "0.06",
-      "inst_own": "1.7%",
-      "caja_meses": "11.1",
-      "header_raw": null,
-      "empresa": "FingerMotion Inc"
-    },
-    {
-      "ticker": "TGE",
-      "ok": true,
-      "float": "13.79M ($13.79M)",
-      "os": "54.80M ($54.80M)  [DT]",
+      "float": "0.81M ($810.00K)",
+      "os": "8.40M ($8.40M)  [DT]",
       "os_growth": "+0.0%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$57.00M",
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": "0.2%",
+      "market_cap": "$100.00M",
+      "ev": "$89.50M",
+      "net_cash_sh": "1.24",
+      "inst_own": null,
       "caja_meses": null,
       "header_raw": null,
-      "empresa": "Generation Essentials Group"
+      "empresa": "BitVentures"
+    },
+    {
+      "ticker": "KALA",
+      "ok": true,
+      "float": "19.34M ($19.34M)",
+      "os": "19.34M ($19.34M)  [DT]",
+      "os_growth": "+14776.9%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$14.80M",
+      "ev": "$9.80M",
+      "net_cash_sh": "0.26",
+      "inst_own": "3.2%",
+      "caja_meses": "6.7",
+      "header_raw": null,
+      "empresa": "Kala Pharmaceuticals, Inc."
     },
     {
       "ticker": "ATXG",
@@ -247,22 +230,6 @@
       "empresa": "Addentax Group"
     },
     {
-      "ticker": "BVC",
-      "ok": true,
-      "float": "0.81M ($810.00K)",
-      "os": "8.40M ($8.40M)  [DT]",
-      "os_growth": "+0.0%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$100.00M",
-      "ev": "$89.50M",
-      "net_cash_sh": "1.24",
-      "inst_own": null,
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "BitVentures"
-    },
-    {
       "ticker": "BIYA",
       "ok": true,
       "float": "5.00M ($5.00M)",
@@ -277,6 +244,22 @@
       "caja_meses": "159.9",
       "header_raw": null,
       "empresa": "Baiya International Group"
+    },
+    {
+      "ticker": "FNGR",
+      "ok": true,
+      "float": "66.83M ($66.83M)",
+      "os": "77.98M ($77.98M)  [DT]",
+      "os_growth": "+35.4%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$12.50M",
+      "ev": "$7.70M",
+      "net_cash_sh": "0.06",
+      "inst_own": "1.7%",
+      "caja_meses": "11.1",
+      "header_raw": null,
+      "empresa": "FingerMotion Inc"
     }
   ]
 }
