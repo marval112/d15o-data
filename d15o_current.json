@@ -1,20 +1,19 @@
 {
-  "timestamp": "2026-09-30T08:51:46+00:00",
-  "count": 11,
+  "timestamp": "2026-09-30T08:58:38+00:00",
+  "count": 10,
   "tickers": [
     "NIVF",
     "NCI",
     "KALA",
+    "RETO",
     "CAPR",
     "RITA",
     "FNGR",
-    "BIYA",
     "WETO",
-    "RETO",
-    "ATCX",
+    "BIYA",
     "MDXH"
   ],
-  "enriquecidos": 10,
+  "enriquecidos": 9,
   "pendientes": 0,
   "data": [
     {
@@ -66,6 +65,22 @@
       "empresa": "Kala Pharmaceuticals, Inc."
     },
     {
+      "ticker": "RETO",
+      "ok": true,
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$5.60M",
+      "ev": "-$11.30M",
+      "net_cash_sh": "0.38",
+      "inst_own": null,
+      "caja_meses": "642.9",
+      "header_raw": null,
+      "empresa": "ReTo Eco-Solutions, Inc."
+    },
+    {
       "ticker": "CAPR",
       "ok": true,
       "float": "50.48M ($50.48M)",
@@ -114,22 +129,6 @@
       "empresa": "FingerMotion Inc"
     },
     {
-      "ticker": "BIYA",
-      "ok": true,
-      "float": "5.00M ($5.00M)",
-      "os": "6.35M ($6.35M)  [DT]",
-      "os_growth": "+6955.6%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$15.60M",
-      "ev": "$10.90M",
-      "net_cash_sh": "0.73",
-      "inst_own": "0.2%",
-      "caja_meses": "159.9",
-      "header_raw": null,
-      "empresa": "Baiya International Group"
-    },
-    {
       "ticker": "WETO",
       "ok": true,
       "float": "0.66M ($660.00K)",
@@ -146,36 +145,20 @@
       "empresa": "Webus International"
     },
     {
-      "ticker": "RETO",
+      "ticker": "BIYA",
       "ok": true,
-      "float": "42.88M ($42.88M)",
-      "os": "43.88M ($43.88M)  [DT]",
-      "os_growth": "+18183.3%",
+      "float": "5.00M ($5.00M)",
+      "os": "6.35M ($6.35M)  [DT]",
+      "os_growth": "+6955.6%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$4.60M",
-      "ev": "-$12.20M",
-      "net_cash_sh": "0.38",
-      "inst_own": null,
-      "caja_meses": "642.9",
+      "market_cap": "$15.60M",
+      "ev": "$10.90M",
+      "net_cash_sh": "0.73",
+      "inst_own": "0.2%",
+      "caja_meses": "159.9",
       "header_raw": null,
-      "empresa": "ReTo Eco-Solutions, Inc."
-    },
-    {
-      "ticker": "ATCX",
-      "ok": true,
-      "float": "1.87M ($1.87M)",
-      "os": "5.08M ($5.08M)  [DT]",
-      "os_growth": null,
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": null,
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": "0.8%",
-      "caja_meses": "7.3",
-      "header_raw": null,
-      "empresa": "Atlas Critical Minerals"
+      "empresa": "Baiya International Group"
     },
     {
       "ticker": "MDXH",
