@@ -1,22 +1,23 @@
 {
-  "timestamp": "2026-09-30T11:12:35+00:00",
-  "count": 13,
+  "timestamp": "2026-09-30T11:18:54+00:00",
+  "count": 14,
   "tickers": [
     "ZCSH",
-    "NIVF",
     "LGHL",
+    "NIVF",
     "NCI",
     "FFR",
     "KALA",
     "RITA",
-    "FNGR",
     "RETO",
-    "BIYA",
-    "CNTB",
     "TGE",
-    "NCPL"
+    "NCT",
+    "NCPL",
+    "BIYA",
+    "BTTC",
+    "FNGR"
   ],
-  "enriquecidos": 10,
+  "enriquecidos": 11,
   "pendientes": 0,
   "data": [
     {
@@ -36,22 +37,6 @@
       "empresa": "None"
     },
     {
-      "ticker": "NIVF",
-      "ok": true,
-      "float": "19.06M ($19.06M)",
-      "os": "20.28M ($20.28M)  [DT]",
-      "os_growth": null,
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$1.80M",
-      "ev": "$6.60M",
-      "net_cash_sh": "-0.3",
-      "inst_own": "0.4%",
-      "caja_meses": "1.4",
-      "header_raw": null,
-      "empresa": "NewGenIvf Limited"
-    },
-    {
       "ticker": "LGHL",
       "ok": true,
       "float": "0.05M ($50.00K)",
@@ -66,6 +51,22 @@
       "caja_meses": "139.5",
       "header_raw": null,
       "empresa": "Lion Group Holding Ltd."
+    },
+    {
+      "ticker": "NIVF",
+      "ok": true,
+      "float": "19.06M ($19.06M)",
+      "os": "20.28M ($20.28M)  [DT]",
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$1.80M",
+      "ev": "$6.60M",
+      "net_cash_sh": "-0.3",
+      "inst_own": "0.4%",
+      "caja_meses": "1.4",
+      "header_raw": null,
+      "empresa": "NewGenIvf Limited"
     },
     {
       "ticker": "NCI",
@@ -132,22 +133,6 @@
       "empresa": "None"
     },
     {
-      "ticker": "FNGR",
-      "ok": true,
-      "float": "66.83M ($66.83M)",
-      "os": "77.98M ($77.98M)  [DT]",
-      "os_growth": "+35.4%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$14.00M",
-      "ev": "$9.20M",
-      "net_cash_sh": "0.06",
-      "inst_own": "1.7%",
-      "caja_meses": "11.1",
-      "header_raw": null,
-      "empresa": "FingerMotion Inc"
-    },
-    {
       "ticker": "RETO",
       "ok": true,
       "float": "42.88M ($42.88M)",
@@ -162,38 +147,6 @@
       "caja_meses": "642.9",
       "header_raw": null,
       "empresa": "ReTo Eco-Solutions, Inc."
-    },
-    {
-      "ticker": "BIYA",
-      "ok": true,
-      "float": "5.00M ($5.00M)",
-      "os": "6.35M ($6.35M)  [DT]",
-      "os_growth": "+6955.6%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$14.90M",
-      "ev": "$10.30M",
-      "net_cash_sh": "0.73",
-      "inst_own": "0.2%",
-      "caja_meses": "159.9",
-      "header_raw": null,
-      "empresa": "Baiya International Group"
-    },
-    {
-      "ticker": "CNTB",
-      "ok": true,
-      "float": "19.77M ($19.77M)",
-      "os": "62.97M ($62.97M)  [DT]",
-      "os_growth": "+13.3%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$72.10M",
-      "ev": "$57.50M",
-      "net_cash_sh": "0.23",
-      "inst_own": "22.2%",
-      "caja_meses": "2.8",
-      "header_raw": null,
-      "empresa": "Connect Biopharma Holdings Limited"
     },
     {
       "ticker": "TGE",
@@ -212,6 +165,22 @@
       "empresa": "Generation Essentials Group"
     },
     {
+      "ticker": "NCT",
+      "ok": true,
+      "float": "0.33M ($330.00K)",
+      "os": "0.46M ($460.00K)  [DT]",
+      "os_growth": "+959.7%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$1.00M",
+      "ev": "$15.50M",
+      "net_cash_sh": "-33.12",
+      "inst_own": "0.1%",
+      "caja_meses": "0.6",
+      "header_raw": null,
+      "empresa": "Intercont"
+    },
+    {
       "ticker": "NCPL",
       "ok": true,
       "float": "7.85M ($7.85M)",
@@ -226,6 +195,54 @@
       "caja_meses": "7.3",
       "header_raw": null,
       "empresa": "Netcapital"
+    },
+    {
+      "ticker": "BIYA",
+      "ok": true,
+      "float": "5.00M ($5.00M)",
+      "os": "6.35M ($6.35M)  [DT]",
+      "os_growth": "+6955.6%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$14.90M",
+      "ev": "$10.30M",
+      "net_cash_sh": "0.73",
+      "inst_own": "0.2%",
+      "caja_meses": "159.9",
+      "header_raw": null,
+      "empresa": "Baiya International Group"
+    },
+    {
+      "ticker": "BTTC",
+      "ok": true,
+      "float": "5.83M ($5.83M)",
+      "os": "10.77M ($10.77M)  [DT]",
+      "os_growth": "+709.8%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$5.70M",
+      "ev": "$6.10M",
+      "net_cash_sh": "-0.04",
+      "inst_own": "1.5%",
+      "caja_meses": "0.1",
+      "header_raw": null,
+      "empresa": "Black Titan Corporation"
+    },
+    {
+      "ticker": "FNGR",
+      "ok": true,
+      "float": "66.83M ($66.83M)",
+      "os": "77.98M ($77.98M)  [DT]",
+      "os_growth": "+35.4%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$14.00M",
+      "ev": "$9.20M",
+      "net_cash_sh": "0.06",
+      "inst_own": "1.7%",
+      "caja_meses": "11.1",
+      "header_raw": null,
+      "empresa": "FingerMotion Inc"
     }
   ]
 }
