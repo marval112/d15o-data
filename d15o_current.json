@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T10:52:17+00:00",
+  "timestamp": "2026-09-30T10:58:40+00:00",
   "count": 14,
   "tickers": [
     "NIVF",
@@ -7,15 +7,15 @@
     "NCI",
     "FFR",
     "KALA",
-    "RITA",
     "RETO",
+    "RITA",
     "FNGR",
+    "BTTC",
     "CAPR",
     "BIYA",
     "TGE",
     "MDXH",
-    "WETO",
-    "ATCX"
+    "WETO"
   ],
   "enriquecidos": 12,
   "pendientes": 0,
@@ -101,22 +101,6 @@
       "empresa": "Kala Pharmaceuticals, Inc."
     },
     {
-      "ticker": "RITA",
-      "ok": false,
-      "float": "No disponible (Float & OS: Float & OS: )",
-      "os": null,
-      "os_growth": null,
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": null,
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": null,
-      "caja_meses": null,
-      "header_raw": "Float & OS: Float & OS: )",
-      "empresa": "None"
-    },
-    {
       "ticker": "RETO",
       "ok": true,
       "float": "42.88M ($42.88M)",
@@ -133,6 +117,22 @@
       "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
+      "ticker": "RITA",
+      "ok": false,
+      "float": "No disponible (Float & OS: Float & OS: )",
+      "os": null,
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": null,
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": null,
+      "caja_meses": null,
+      "header_raw": "Float & OS: Float & OS: )",
+      "empresa": "None"
+    },
+    {
       "ticker": "FNGR",
       "ok": true,
       "float": "66.83M ($66.83M)",
@@ -147,6 +147,22 @@
       "caja_meses": "11.1",
       "header_raw": null,
       "empresa": "FingerMotion Inc"
+    },
+    {
+      "ticker": "BTTC",
+      "ok": true,
+      "float": "5.83M ($5.83M)",
+      "os": "10.77M ($10.77M)  [DT]",
+      "os_growth": "+709.8%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$5.80M",
+      "ev": "$6.20M",
+      "net_cash_sh": "-0.04",
+      "inst_own": "1.5%",
+      "caja_meses": "0.2",
+      "header_raw": null,
+      "empresa": "Black Titan Corporation"
     },
     {
       "ticker": "CAPR",
@@ -227,22 +243,6 @@
       "caja_meses": null,
       "header_raw": null,
       "empresa": "Webus International"
-    },
-    {
-      "ticker": "ATCX",
-      "ok": true,
-      "float": "1.87M ($1.87M)",
-      "os": "5.08M ($5.08M)  [DT]",
-      "os_growth": null,
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": null,
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": "0.8%",
-      "caja_meses": "7.3",
-      "header_raw": null,
-      "empresa": "Atlas Critical Minerals"
     }
   ]
 }
