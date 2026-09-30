@@ -1,25 +1,24 @@
 {
-  "timestamp": "2026-09-30T11:50:18+00:00",
-  "count": 16,
+  "timestamp": "2026-09-30T11:56:27+00:00",
+  "count": 15,
   "tickers": [
     "ZCSH",
     "NIVF",
-    "LGHL",
     "CNTB",
+    "LGHL",
     "NCI",
     "FFR",
     "RETO",
-    "VBIO",
     "RITA",
-    "NCPL",
-    "KALA",
+    "VBIO",
     "BVC",
+    "NCPL",
     "ATXG",
-    "TGE",
     "BIYA",
-    "NAUT"
+    "NAUT",
+    "TGE"
   ],
-  "enriquecidos": 13,
+  "enriquecidos": 12,
   "pendientes": 0,
   "data": [
     {
@@ -55,22 +54,6 @@
       "empresa": "NewGenIvf Limited"
     },
     {
-      "ticker": "LGHL",
-      "ok": true,
-      "float": "0.05M ($50.00K)",
-      "os": "0.05M ($50.00K)  [DT]",
-      "os_growth": "+20675.0%",
-      "dil_instr": "26",
-      "dil_tipos": "Convertible Note, Convertible Preferred, Shelf, Warrant",
-      "market_cap": "$200.00K",
-      "ev": "-$22.40M",
-      "net_cash_sh": "491.05",
-      "inst_own": "60.0%",
-      "caja_meses": "139.5",
-      "header_raw": null,
-      "empresa": "Lion Group Holding Ltd."
-    },
-    {
       "ticker": "CNTB",
       "ok": true,
       "float": "19.77M ($19.77M)",
@@ -85,6 +68,22 @@
       "caja_meses": "2.8",
       "header_raw": null,
       "empresa": "Connect Biopharma Holdings Limited"
+    },
+    {
+      "ticker": "LGHL",
+      "ok": true,
+      "float": "0.05M ($50.00K)",
+      "os": "0.05M ($50.00K)  [DT]",
+      "os_growth": "+20675.0%",
+      "dil_instr": "26",
+      "dil_tipos": "Convertible Note, Convertible Preferred, Shelf, Warrant",
+      "market_cap": "$200.00K",
+      "ev": "-$22.40M",
+      "net_cash_sh": "491.05",
+      "inst_own": "60.0%",
+      "caja_meses": "139.5",
+      "header_raw": null,
+      "empresa": "Lion Group Holding Ltd."
     },
     {
       "ticker": "NCI",
@@ -135,22 +134,6 @@
       "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
-      "ticker": "VBIO",
-      "ok": true,
-      "float": "1.28M ($1.28M)",
-      "os": "1.29M ($1.29M)  [DT]",
-      "os_growth": "+3552.3%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$4.50M",
-      "ev": "$21.90M",
-      "net_cash_sh": "-15.71",
-      "inst_own": "1.2%",
-      "caja_meses": "1.7",
-      "header_raw": null,
-      "empresa": "Valion Bio"
-    },
-    {
       "ticker": "RITA",
       "ok": false,
       "float": "No disponible (Float & OS: Float & OS: )",
@@ -167,36 +150,20 @@
       "empresa": "None"
     },
     {
-      "ticker": "NCPL",
+      "ticker": "VBIO",
       "ok": true,
-      "float": "7.85M ($7.85M)",
-      "os": "7.85M ($7.85M)  [DT]",
-      "os_growth": "+239.8%",
+      "float": "1.28M ($1.28M)",
+      "os": "1.29M ($1.29M)  [DT]",
+      "os_growth": "+3552.3%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$11.10M",
-      "ev": "$13.60M",
-      "net_cash_sh": "-1.1",
-      "inst_own": "4.3%",
-      "caja_meses": "7.3",
+      "market_cap": "$4.50M",
+      "ev": "$21.90M",
+      "net_cash_sh": "-15.71",
+      "inst_own": "1.2%",
+      "caja_meses": "1.7",
       "header_raw": null,
-      "empresa": "Netcapital"
-    },
-    {
-      "ticker": "KALA",
-      "ok": true,
-      "float": "19.34M ($19.34M)",
-      "os": "19.34M ($19.34M)  [DT]",
-      "os_growth": "+14776.9%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$14.80M",
-      "ev": "$9.80M",
-      "net_cash_sh": "0.26",
-      "inst_own": "3.2%",
-      "caja_meses": "6.7",
-      "header_raw": null,
-      "empresa": "Kala Pharmaceuticals, Inc."
+      "empresa": "Valion Bio"
     },
     {
       "ticker": "BVC",
@@ -215,6 +182,22 @@
       "empresa": "BitVentures"
     },
     {
+      "ticker": "NCPL",
+      "ok": true,
+      "float": "7.85M ($7.85M)",
+      "os": "7.85M ($7.85M)  [DT]",
+      "os_growth": "+239.8%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$11.10M",
+      "ev": "$13.60M",
+      "net_cash_sh": "-1.1",
+      "inst_own": "4.3%",
+      "caja_meses": "7.3",
+      "header_raw": null,
+      "empresa": "Netcapital"
+    },
+    {
       "ticker": "ATXG",
       "ok": true,
       "float": "1.97M ($1.97M)",
@@ -229,22 +212,6 @@
       "caja_meses": "752.2",
       "header_raw": null,
       "empresa": "Addentax Group"
-    },
-    {
-      "ticker": "TGE",
-      "ok": true,
-      "float": "13.79M ($13.79M)",
-      "os": "54.80M ($54.80M)  [DT]",
-      "os_growth": "+0.0%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$57.00M",
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": "0.2%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Generation Essentials Group"
     },
     {
       "ticker": "BIYA",
@@ -270,13 +237,29 @@
       "os_growth": "+0.9%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$201.00M",
-      "ev": "$113.30M",
+      "market_cap": "$199.80M",
+      "ev": "$112.10M",
       "net_cash_sh": "0.69",
       "inst_own": "39.5%",
       "caja_meses": "25.8",
       "header_raw": null,
       "empresa": "Nautilus Biotechnology, Inc."
+    },
+    {
+      "ticker": "TGE",
+      "ok": true,
+      "float": "13.79M ($13.79M)",
+      "os": "54.80M ($54.80M)  [DT]",
+      "os_growth": "+0.0%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$57.00M",
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": "0.2%",
+      "caja_meses": null,
+      "header_raw": null,
+      "empresa": "Generation Essentials Group"
     }
   ]
 }
