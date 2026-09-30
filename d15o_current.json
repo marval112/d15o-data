@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-09-30T10:08:29+00:00",
+  "timestamp": "2026-09-30T10:14:52+00:00",
   "count": 15,
   "tickers": [
     "NIVF",
     "PLXS",
-    "RETO",
+    "VC",
     "NCI",
-    "FFR",
-    "CAPR",
     "LGHL",
+    "RETO",
+    "CAPR",
+    "FFR",
     "RITA",
     "FNGR",
     "KALA",
     "BIYA",
-    "GOW",
+    "WETO",
     "MDXH",
-    "ATCX",
-    "WETO"
+    "ATCX"
   ],
-  "enriquecidos": 12,
+  "enriquecidos": 11,
   "pendientes": 0,
   "data": [
     {
@@ -54,20 +54,20 @@
       "empresa": "Plexus Corp."
     },
     {
-      "ticker": "RETO",
-      "ok": true,
-      "float": "42.88M ($42.88M)",
-      "os": "43.88M ($43.88M)  [DT]",
-      "os_growth": "+18183.3%",
+      "ticker": "VC",
+      "ok": false,
+      "float": "No disponible (Float & OS: Float & OS: )",
+      "os": null,
+      "os_growth": null,
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$4.70M",
-      "ev": "-$12.20M",
-      "net_cash_sh": "0.38",
-      "inst_own": null,
-      "caja_meses": "642.9",
-      "header_raw": null,
-      "empresa": "ReTo Eco-Solutions, Inc."
+      "market_cap": "$2.66B",
+      "ev": "$2.44B",
+      "net_cash_sh": "7.99",
+      "inst_own": "120.7%",
+      "caja_meses": null,
+      "header_raw": "Float & OS: Float & OS: )",
+      "empresa": "Visteon Corporation"
     },
     {
       "ticker": "NCI",
@@ -86,20 +86,36 @@
       "empresa": "Neo-Concept International Group"
     },
     {
-      "ticker": "FFR",
-      "ok": false,
-      "float": "No disponible (Float & OS: Float & OS: )",
-      "os": null,
-      "os_growth": null,
+      "ticker": "LGHL",
+      "ok": true,
+      "float": "0.05M ($50.00K)",
+      "os": "0.05M ($50.00K)  [DT]",
+      "os_growth": "+20675.0%",
+      "dil_instr": "26",
+      "dil_tipos": "Convertible Note, Convertible Preferred, Shelf, Warrant",
+      "market_cap": "$200.00K",
+      "ev": "-$22.40M",
+      "net_cash_sh": "491.05",
+      "inst_own": "60.0%",
+      "caja_meses": "139.5",
+      "header_raw": null,
+      "empresa": "Lion Group Holding Ltd."
+    },
+    {
+      "ticker": "RETO",
+      "ok": true,
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": null,
-      "ev": null,
-      "net_cash_sh": null,
+      "market_cap": "$4.70M",
+      "ev": "-$12.20M",
+      "net_cash_sh": "0.38",
       "inst_own": null,
-      "caja_meses": null,
-      "header_raw": "Float & OS: Float & OS: )",
-      "empresa": "None"
+      "caja_meses": "642.9",
+      "header_raw": null,
+      "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
       "ticker": "CAPR",
@@ -118,20 +134,20 @@
       "empresa": "Capricor Therapeutics, Inc."
     },
     {
-      "ticker": "LGHL",
-      "ok": true,
-      "float": "0.05M ($50.00K)",
-      "os": "0.05M ($50.00K)  [DT]",
-      "os_growth": "+20675.0%",
-      "dil_instr": "26",
-      "dil_tipos": "Convertible Note, Convertible Preferred, Shelf, Warrant",
-      "market_cap": "$200.00K",
-      "ev": "-$22.40M",
-      "net_cash_sh": "491.05",
-      "inst_own": "60.0%",
-      "caja_meses": "139.5",
-      "header_raw": null,
-      "empresa": "Lion Group Holding Ltd."
+      "ticker": "FFR",
+      "ok": false,
+      "float": "No disponible (Float & OS: Float & OS: )",
+      "os": null,
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": null,
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": null,
+      "caja_meses": null,
+      "header_raw": "Float & OS: Float & OS: )",
+      "empresa": "None"
     },
     {
       "ticker": "RITA",
@@ -198,20 +214,20 @@
       "empresa": "Baiya International Group"
     },
     {
-      "ticker": "GOW",
+      "ticker": "WETO",
       "ok": true,
-      "float": "2.12M ($2.12M)",
-      "os": "38.12M ($38.12M)  [DT]",
-      "os_growth": null,
+      "float": "0.66M ($660.00K)",
+      "os": "2.82M ($2.82M)  [DT]",
+      "os_growth": "+1181.8%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$70.90M",
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": null,
-      "caja_meses": "3.5",
+      "market_cap": "$3.60M",
+      "ev": "-$2.90M",
+      "net_cash_sh": "2.3",
+      "inst_own": "0.1%",
+      "caja_meses": null,
       "header_raw": null,
-      "empresa": "GOWell Energy"
+      "empresa": "Webus International"
     },
     {
       "ticker": "MDXH",
@@ -244,22 +260,6 @@
       "caja_meses": "7.3",
       "header_raw": null,
       "empresa": "Atlas Critical Minerals"
-    },
-    {
-      "ticker": "WETO",
-      "ok": true,
-      "float": "0.66M ($660.00K)",
-      "os": "2.82M ($2.82M)  [DT]",
-      "os_growth": "+1181.8%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$3.60M",
-      "ev": "-$2.90M",
-      "net_cash_sh": "2.3",
-      "inst_own": "0.1%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Webus International"
     }
   ]
 }
