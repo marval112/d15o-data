@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-09-30T09:55:48+00:00",
+  "timestamp": "2026-09-30T10:02:11+00:00",
   "count": 14,
   "tickers": [
     "NIVF",
     "PLXS",
     "NCI",
-    "RETO",
     "FFR",
+    "RETO",
     "CAPR",
+    "LGHL",
     "KALA",
     "RITA",
     "FNGR",
     "BIYA",
-    "LGHL",
     "MDXH",
     "ATCX",
     "WETO"
@@ -69,22 +69,6 @@
       "empresa": "Neo-Concept International Group"
     },
     {
-      "ticker": "RETO",
-      "ok": true,
-      "float": "42.88M ($42.88M)",
-      "os": "43.88M ($43.88M)  [DT]",
-      "os_growth": "+18183.3%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$4.70M",
-      "ev": "-$12.20M",
-      "net_cash_sh": "0.38",
-      "inst_own": null,
-      "caja_meses": "642.9",
-      "header_raw": null,
-      "empresa": "ReTo Eco-Solutions, Inc."
-    },
-    {
       "ticker": "FFR",
       "ok": false,
       "float": "No disponible (Float & OS: Float & OS: )",
@@ -101,6 +85,22 @@
       "empresa": "None"
     },
     {
+      "ticker": "RETO",
+      "ok": true,
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$4.70M",
+      "ev": "-$12.20M",
+      "net_cash_sh": "0.38",
+      "inst_own": null,
+      "caja_meses": "642.9",
+      "header_raw": null,
+      "empresa": "ReTo Eco-Solutions, Inc."
+    },
+    {
       "ticker": "CAPR",
       "ok": true,
       "float": "50.48M ($50.48M)",
@@ -115,6 +115,22 @@
       "caja_meses": "20.4",
       "header_raw": null,
       "empresa": "Capricor Therapeutics, Inc."
+    },
+    {
+      "ticker": "LGHL",
+      "ok": true,
+      "float": "0.05M ($50.00K)",
+      "os": "0.05M ($50.00K)  [DT]",
+      "os_growth": "+20675.0%",
+      "dil_instr": "26",
+      "dil_tipos": "Convertible Note, Convertible Preferred, Shelf, Warrant",
+      "market_cap": "$200.00K",
+      "ev": "-$22.40M",
+      "net_cash_sh": "491.05",
+      "inst_own": "60.0%",
+      "caja_meses": "139.5",
+      "header_raw": null,
+      "empresa": "Lion Group Holding Ltd."
     },
     {
       "ticker": "KALA",
@@ -179,22 +195,6 @@
       "caja_meses": "159.9",
       "header_raw": null,
       "empresa": "Baiya International Group"
-    },
-    {
-      "ticker": "LGHL",
-      "ok": true,
-      "float": "0.05M ($50.00K)",
-      "os": "0.05M ($50.00K)  [DT]",
-      "os_growth": "+20675.0%",
-      "dil_instr": "26",
-      "dil_tipos": "Convertible Note, Convertible Preferred, Shelf, Warrant",
-      "market_cap": "$200.00K",
-      "ev": "-$22.40M",
-      "net_cash_sh": "491.05",
-      "inst_own": "60.0%",
-      "caja_meses": "139.5",
-      "header_raw": null,
-      "empresa": "Lion Group Holding Ltd."
     },
     {
       "ticker": "MDXH",
