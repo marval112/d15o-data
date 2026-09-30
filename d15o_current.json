@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T12:43:10+00:00",
+  "timestamp": "2026-09-30T12:49:58+00:00",
   "count": 14,
   "tickers": [
     "ZCSH",
@@ -9,13 +9,13 @@
     "VBIO",
     "NCI",
     "FRGT",
+    "TGE",
     "FFR",
     "RITA",
     "RETO",
-    "TGE",
+    "WETO",
     "NAUT",
-    "BVC",
-    "WETO"
+    "BIYA"
   ],
   "enriquecidos": 11,
   "pendientes": 0,
@@ -133,6 +133,22 @@
       "empresa": "Freight Technologies"
     },
     {
+      "ticker": "TGE",
+      "ok": true,
+      "float": "13.79M ($13.79M)",
+      "os": "54.80M ($54.80M)  [DT]",
+      "os_growth": "+0.0%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$57.00M",
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": "0.2%",
+      "caja_meses": null,
+      "header_raw": null,
+      "empresa": "Generation Essentials Group"
+    },
+    {
       "ticker": "FFR",
       "ok": false,
       "float": "No disponible (Float & OS: Float & OS: )",
@@ -181,20 +197,20 @@
       "empresa": "ReTo Eco-Solutions, Inc."
     },
     {
-      "ticker": "TGE",
+      "ticker": "WETO",
       "ok": true,
-      "float": "13.79M ($13.79M)",
-      "os": "54.80M ($54.80M)  [DT]",
-      "os_growth": "+0.0%",
+      "float": "0.66M ($660.00K)",
+      "os": "2.82M ($2.82M)  [DT]",
+      "os_growth": "+1181.8%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$57.00M",
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": "0.2%",
+      "market_cap": "$3.60M",
+      "ev": "-$2.90M",
+      "net_cash_sh": "2.3",
+      "inst_own": "0.1%",
       "caja_meses": null,
       "header_raw": null,
-      "empresa": "Generation Essentials Group"
+      "empresa": "Webus International"
     },
     {
       "ticker": "NAUT",
@@ -213,36 +229,20 @@
       "empresa": "Nautilus Biotechnology, Inc."
     },
     {
-      "ticker": "BVC",
+      "ticker": "BIYA",
       "ok": true,
-      "float": "0.81M ($810.00K)",
-      "os": "8.40M ($8.40M)  [DT]",
-      "os_growth": "+0.0%",
+      "float": "5.00M ($5.00M)",
+      "os": "6.35M ($6.35M)  [DT]",
+      "os_growth": "+6955.6%",
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$100.00M",
-      "ev": "$89.50M",
-      "net_cash_sh": "1.24",
-      "inst_own": null,
-      "caja_meses": null,
+      "market_cap": "$15.00M",
+      "ev": "$10.20M",
+      "net_cash_sh": "0.76",
+      "inst_own": "0.2%",
+      "caja_meses": "159.9",
       "header_raw": null,
-      "empresa": "BitVentures"
-    },
-    {
-      "ticker": "WETO",
-      "ok": true,
-      "float": "0.66M ($660.00K)",
-      "os": "2.82M ($2.82M)  [DT]",
-      "os_growth": "+1181.8%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$3.60M",
-      "ev": "-$2.90M",
-      "net_cash_sh": "2.3",
-      "inst_own": "0.1%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Webus International"
+      "empresa": "Baiya International Group"
     }
   ]
 }
