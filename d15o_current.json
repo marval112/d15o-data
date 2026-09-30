@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-30T09:49:27+00:00",
+  "timestamp": "2026-09-30T09:55:48+00:00",
   "count": 14,
   "tickers": [
     "NIVF",
     "PLXS",
     "NCI",
-    "FFR",
     "RETO",
+    "FFR",
     "CAPR",
     "KALA",
     "RITA",
@@ -69,22 +69,6 @@
       "empresa": "Neo-Concept International Group"
     },
     {
-      "ticker": "FFR",
-      "ok": false,
-      "float": "No disponible (Float & OS: Float & OS: )",
-      "os": null,
-      "os_growth": null,
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": null,
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": null,
-      "caja_meses": null,
-      "header_raw": "Float & OS: Float & OS: )",
-      "empresa": "None"
-    },
-    {
       "ticker": "RETO",
       "ok": true,
       "float": "42.88M ($42.88M)",
@@ -99,6 +83,22 @@
       "caja_meses": "642.9",
       "header_raw": null,
       "empresa": "ReTo Eco-Solutions, Inc."
+    },
+    {
+      "ticker": "FFR",
+      "ok": false,
+      "float": "No disponible (Float & OS: Float & OS: )",
+      "os": null,
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": null,
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": null,
+      "caja_meses": null,
+      "header_raw": "Float & OS: Float & OS: )",
+      "empresa": "None"
     },
     {
       "ticker": "CAPR",
