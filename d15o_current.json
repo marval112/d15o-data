@@ -1,19 +1,20 @@
 {
-  "timestamp": "2026-09-30T08:58:38+00:00",
-  "count": 10,
+  "timestamp": "2026-09-30T09:05:29+00:00",
+  "count": 11,
   "tickers": [
     "NIVF",
+    "FFR",
     "NCI",
-    "KALA",
-    "RETO",
+    "PLXS",
     "CAPR",
     "RITA",
+    "KALA",
     "FNGR",
-    "WETO",
     "BIYA",
-    "MDXH"
+    "MDXH",
+    "RETO"
   ],
-  "enriquecidos": 9,
+  "enriquecidos": 8,
   "pendientes": 0,
   "data": [
     {
@@ -33,6 +34,22 @@
       "empresa": "NewGenIvf Limited"
     },
     {
+      "ticker": "FFR",
+      "ok": false,
+      "float": "No disponible (Float & OS: Float & OS: )",
+      "os": null,
+      "os_growth": null,
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": null,
+      "ev": null,
+      "net_cash_sh": null,
+      "inst_own": null,
+      "caja_meses": null,
+      "header_raw": "Float & OS: Float & OS: )",
+      "empresa": "None"
+    },
+    {
       "ticker": "NCI",
       "ok": true,
       "float": "2.46M ($2.46M)",
@@ -49,36 +66,20 @@
       "empresa": "Neo-Concept International Group"
     },
     {
-      "ticker": "KALA",
-      "ok": true,
-      "float": "19.34M ($19.34M)",
-      "os": "19.34M ($19.34M)  [DT]",
-      "os_growth": "+14776.9%",
+      "ticker": "PLXS",
+      "ok": false,
+      "float": "No disponible (Float & OS: Float & OS: )",
+      "os": null,
+      "os_growth": null,
       "dil_instr": null,
       "dil_tipos": null,
-      "market_cap": "$14.80M",
-      "ev": "$9.80M",
-      "net_cash_sh": "0.26",
-      "inst_own": "3.2%",
-      "caja_meses": "6.7",
-      "header_raw": null,
-      "empresa": "Kala Pharmaceuticals, Inc."
-    },
-    {
-      "ticker": "RETO",
-      "ok": true,
-      "float": "42.88M ($42.88M)",
-      "os": "43.88M ($43.88M)  [DT]",
-      "os_growth": "+18183.3%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$5.60M",
-      "ev": "-$11.30M",
-      "net_cash_sh": "0.38",
-      "inst_own": null,
-      "caja_meses": "642.9",
-      "header_raw": null,
-      "empresa": "ReTo Eco-Solutions, Inc."
+      "market_cap": "$7.36B",
+      "ev": "$7.34B",
+      "net_cash_sh": "0.55",
+      "inst_own": "101.1%",
+      "caja_meses": null,
+      "header_raw": "Float & OS: Float & OS: )",
+      "empresa": "Plexus Corp."
     },
     {
       "ticker": "CAPR",
@@ -113,6 +114,22 @@
       "empresa": "None"
     },
     {
+      "ticker": "KALA",
+      "ok": true,
+      "float": "19.34M ($19.34M)",
+      "os": "19.34M ($19.34M)  [DT]",
+      "os_growth": "+14776.9%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$14.80M",
+      "ev": "$9.80M",
+      "net_cash_sh": "0.26",
+      "inst_own": "3.2%",
+      "caja_meses": "6.7",
+      "header_raw": null,
+      "empresa": "Kala Pharmaceuticals, Inc."
+    },
+    {
       "ticker": "FNGR",
       "ok": true,
       "float": "66.83M ($66.83M)",
@@ -127,22 +144,6 @@
       "caja_meses": "11.1",
       "header_raw": null,
       "empresa": "FingerMotion Inc"
-    },
-    {
-      "ticker": "WETO",
-      "ok": true,
-      "float": "0.66M ($660.00K)",
-      "os": "2.82M ($2.82M)  [DT]",
-      "os_growth": "+1181.8%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$4.30M",
-      "ev": "-$2.20M",
-      "net_cash_sh": "2.3",
-      "inst_own": "0.1%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Webus International"
     },
     {
       "ticker": "BIYA",
@@ -175,6 +176,22 @@
       "caja_meses": "27.8",
       "header_raw": null,
       "empresa": "MDxHealth SA - ADR"
+    },
+    {
+      "ticker": "RETO",
+      "ok": true,
+      "float": "42.88M ($42.88M)",
+      "os": "43.88M ($43.88M)  [DT]",
+      "os_growth": "+18183.3%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$5.60M",
+      "ev": "-$11.30M",
+      "net_cash_sh": "0.38",
+      "inst_own": null,
+      "caja_meses": "642.9",
+      "header_raw": null,
+      "empresa": "ReTo Eco-Solutions, Inc."
     }
   ]
 }
