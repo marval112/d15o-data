@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T13:04:57+00:00",
+  "timestamp": "2026-10-01T13:07:36+00:00",
   "count": 10,
   "tickers": [
     "TTT",
@@ -10,8 +10,8 @@
     "VEEA",
     "GIPR",
     "BLIV",
-    "ACN",
-    "FLNA"
+    "MEDS",
+    "ACN"
   ],
   "enriquecidos": 6,
   "pendientes": 0,
@@ -249,6 +249,35 @@
       "cash_neto_m": 5.8
     },
     {
+      "ticker": "MEDS",
+      "ok": true,
+      "float": "2.03M ($2.03M)",
+      "os": "3.20M ($3.20M)  [DT]",
+      "os_growth": "+75.8%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$12.10M",
+      "ev": "$34.80M",
+      "net_cash_sh": "-7.08",
+      "inst_own": null,
+      "caja_meses": "8.8",
+      "header_raw": null,
+      "empresa": "DataMeds AI",
+      "float_m": 2.03,
+      "os_m": 3.2,
+      "market_cap_m": 12.1,
+      "ev_m": 34.8,
+      "os_growth_pct": 75.8,
+      "caja_meses_n": 8.8,
+      "net_cash_sh_n": -7.08,
+      "inst_own_pct": null,
+      "dil_instr_n": null,
+      "float_pct_os": 63.44,
+      "float_os_ratio": 0.6344,
+      "ev_mc_ratio": 2.876,
+      "cash_neto_m": -22.7
+    },
+    {
       "ticker": "ACN",
       "ok": false,
       "float": "No disponible (Float & OS: Float & OS: )",
@@ -276,35 +305,6 @@
       "float_os_ratio": null,
       "ev_mc_ratio": 0.9829,
       "cash_neto_m": null
-    },
-    {
-      "ticker": "FLNA",
-      "ok": true,
-      "float": "44.93M ($44.93M)",
-      "os": "48.31M ($48.31M)  [DT]",
-      "os_growth": "+0.0%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$49.20M",
-      "ev": "-$26.80M",
-      "net_cash_sh": "1.57",
-      "inst_own": "26.2%",
-      "caja_meses": "35.8",
-      "header_raw": null,
-      "empresa": "Filana Therapeutics (formerly SAVA)",
-      "float_m": 44.93,
-      "os_m": 48.31,
-      "market_cap_m": 49.2,
-      "ev_m": -26.8,
-      "os_growth_pct": 0.0,
-      "caja_meses_n": 35.8,
-      "net_cash_sh_n": 1.57,
-      "inst_own_pct": 26.2,
-      "dil_instr_n": null,
-      "float_pct_os": 93.0,
-      "float_os_ratio": 0.93,
-      "ev_mc_ratio": -0.5447,
-      "cash_neto_m": 76.0
     }
   ]
 }
