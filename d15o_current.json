@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-01T09:14:22+00:00",
-  "count": 8,
+  "timestamp": "2026-10-01T09:16:52+00:00",
+  "count": 7,
   "tickers": [
     "RZAI",
     "GIPR",
@@ -8,10 +8,9 @@
     "OPNW",
     "GLUE",
     "IOYY",
-    "MYND",
     "TEN"
   ],
-  "enriquecidos": 4,
+  "enriquecidos": 3,
   "pendientes": 0,
   "data": [
     {
@@ -187,35 +186,6 @@
       "float_os_ratio": null,
       "ev_mc_ratio": null,
       "cash_neto_m": null
-    },
-    {
-      "ticker": "MYND",
-      "ok": true,
-      "float": "9.29M ($9.29M)",
-      "os": "47.14M ($47.14M)  [DT]",
-      "os_growth": "+2.8%",
-      "dil_instr": "2",
-      "dil_tipos": "Convertible Note, Shelf",
-      "market_cap": "$17.20M",
-      "ev": "$83.90M",
-      "net_cash_sh": "-1.55",
-      "inst_own": "0.7%",
-      "caja_meses": "1.5",
-      "header_raw": null,
-      "empresa": "Gravitas Education Holdings",
-      "float_m": 9.29,
-      "os_m": 47.14,
-      "market_cap_m": 17.2,
-      "ev_m": 83.9,
-      "os_growth_pct": 2.8,
-      "caja_meses_n": 1.5,
-      "net_cash_sh_n": -1.55,
-      "inst_own_pct": 0.7,
-      "dil_instr_n": 2,
-      "float_pct_os": 19.71,
-      "float_os_ratio": 0.1971,
-      "ev_mc_ratio": 4.8779,
-      "cash_neto_m": -66.7
     },
     {
       "ticker": "TEN",
