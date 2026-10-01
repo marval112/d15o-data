@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T09:42:27+00:00",
+  "timestamp": "2026-10-01T09:44:57+00:00",
   "count": 9,
   "tickers": [
     "RZAI",
@@ -7,10 +7,10 @@
     "GIPR",
     "SDEV",
     "MYND",
+    "BTTC",
     "IOYY",
     "GLUE",
-    "TEN",
-    "BTTC"
+    "TEN"
   ],
   "enriquecidos": 5,
   "pendientes": 0,
@@ -161,6 +161,35 @@
       "cash_neto_m": -66.7
     },
     {
+      "ticker": "BTTC",
+      "ok": true,
+      "float": "5.83M ($5.83M)",
+      "os": "10.77M ($10.77M)  [DT]",
+      "os_growth": "+45.7%",
+      "dil_instr": "17",
+      "dil_tipos": "ATM, Convertible Note, Convertible Preferred, S-1 Offering, Shelf, Warrant",
+      "market_cap": "$6.50M",
+      "ev": "$6.90M",
+      "net_cash_sh": "-0.04",
+      "inst_own": "1.5%",
+      "caja_meses": "0.1",
+      "header_raw": null,
+      "empresa": "Black Titan Corporation",
+      "float_m": 5.83,
+      "os_m": 10.77,
+      "market_cap_m": 6.5,
+      "ev_m": 6.9,
+      "os_growth_pct": 45.7,
+      "caja_meses_n": 0.1,
+      "net_cash_sh_n": -0.04,
+      "inst_own_pct": 1.5,
+      "dil_instr_n": 17,
+      "float_pct_os": 54.13,
+      "float_os_ratio": 0.5413,
+      "ev_mc_ratio": 1.0615,
+      "cash_neto_m": -0.4
+    },
+    {
       "ticker": "IOYY",
       "ok": false,
       "float": "No disponible (Float & OS: Float & OS: )",
@@ -246,35 +275,6 @@
       "float_os_ratio": null,
       "ev_mc_ratio": null,
       "cash_neto_m": null
-    },
-    {
-      "ticker": "BTTC",
-      "ok": true,
-      "float": "5.83M ($5.83M)",
-      "os": "10.77M ($10.77M)  [DT]",
-      "os_growth": "+45.7%",
-      "dil_instr": "17",
-      "dil_tipos": "ATM, Convertible Note, Convertible Preferred, S-1 Offering, Shelf, Warrant",
-      "market_cap": "$6.50M",
-      "ev": "$6.90M",
-      "net_cash_sh": "-0.04",
-      "inst_own": "1.5%",
-      "caja_meses": "0.1",
-      "header_raw": null,
-      "empresa": "Black Titan Corporation",
-      "float_m": 5.83,
-      "os_m": 10.77,
-      "market_cap_m": 6.5,
-      "ev_m": 6.9,
-      "os_growth_pct": 45.7,
-      "caja_meses_n": 0.1,
-      "net_cash_sh_n": -0.04,
-      "inst_own_pct": 1.5,
-      "dil_instr_n": 17,
-      "float_pct_os": 54.13,
-      "float_os_ratio": 0.5413,
-      "ev_mc_ratio": 1.0615,
-      "cash_neto_m": -0.4
     }
   ]
 }
