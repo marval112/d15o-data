@@ -1,8 +1,9 @@
 {
-  "timestamp": "2026-10-01T10:00:16+00:00",
-  "count": 7,
+  "timestamp": "2026-10-01T10:03:09+00:00",
+  "count": 8,
   "tickers": [
     "RZAI",
+    "MEDS",
     "OPNW",
     "GIPR",
     "SDEV",
@@ -10,7 +11,7 @@
     "GLUE",
     "TEN"
   ],
-  "enriquecidos": 4,
+  "enriquecidos": 5,
   "pendientes": 0,
   "data": [
     {
@@ -41,6 +42,35 @@
       "float_os_ratio": null,
       "ev_mc_ratio": null,
       "cash_neto_m": null
+    },
+    {
+      "ticker": "MEDS",
+      "ok": true,
+      "float": "2.03M ($2.03M)",
+      "os": "3.20M ($3.20M)  [DT]",
+      "os_growth": "+75.8%",
+      "dil_instr": null,
+      "dil_tipos": null,
+      "market_cap": "$13.80M",
+      "ev": "$36.40M",
+      "net_cash_sh": "-7.07",
+      "inst_own": null,
+      "caja_meses": "8.8",
+      "header_raw": null,
+      "empresa": "DataMeds AI",
+      "float_m": 2.03,
+      "os_m": 3.2,
+      "market_cap_m": 13.8,
+      "ev_m": 36.4,
+      "os_growth_pct": 75.8,
+      "caja_meses_n": 8.8,
+      "net_cash_sh_n": -7.07,
+      "inst_own_pct": null,
+      "dil_instr_n": null,
+      "float_pct_os": 63.44,
+      "float_os_ratio": 0.6344,
+      "ev_mc_ratio": 2.6377,
+      "cash_neto_m": -22.6
     },
     {
       "ticker": "OPNW",
