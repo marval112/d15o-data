@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-01T08:40:48+00:00",
-  "count": 8,
+  "timestamp": "2026-10-01T08:43:18+00:00",
+  "count": 7,
   "tickers": [
     "RZAI",
     "OPNW",
@@ -8,10 +8,9 @@
     "SDEV",
     "GLUE",
     "IOYY",
-    "TEN",
-    "GNS"
+    "TEN"
   ],
-  "enriquecidos": 4,
+  "enriquecidos": 3,
   "pendientes": 0,
   "data": [
     {
@@ -216,35 +215,6 @@
       "float_os_ratio": null,
       "ev_mc_ratio": null,
       "cash_neto_m": null
-    },
-    {
-      "ticker": "GNS",
-      "ok": true,
-      "float": "166.43M ($166.43M)",
-      "os": "173.40M ($173.40M)  [DT]",
-      "os_growth": "+97.5%",
-      "dil_instr": "13",
-      "dil_tipos": "ATM, Convertible Note, S-1 Offering, Shelf, Warrant",
-      "market_cap": "$32.10M",
-      "ev": "$24.40M",
-      "net_cash_sh": "0.04",
-      "inst_own": "0.5%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Genius Group",
-      "float_m": 166.43,
-      "os_m": 173.4,
-      "market_cap_m": 32.1,
-      "ev_m": 24.4,
-      "os_growth_pct": 97.5,
-      "caja_meses_n": null,
-      "net_cash_sh_n": 0.04,
-      "inst_own_pct": 0.5,
-      "dil_instr_n": 13,
-      "float_pct_os": 95.98,
-      "float_os_ratio": 0.9598,
-      "ev_mc_ratio": 0.7601,
-      "cash_neto_m": 7.7
     }
   ]
 }
