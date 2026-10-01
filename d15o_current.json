@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-01T08:48:49+00:00",
-  "count": 9,
+  "timestamp": "2026-10-01T08:51:19+00:00",
+  "count": 8,
   "tickers": [
     "RZAI",
     "SDEV",
@@ -8,11 +8,10 @@
     "GIPR",
     "MYND",
     "GLUE",
-    "CCEL",
     "IOYY",
     "TEN"
   ],
-  "enriquecidos": 5,
+  "enriquecidos": 4,
   "pendientes": 0,
   "data": [
     {
@@ -188,35 +187,6 @@
       "float_os_ratio": 0.9577,
       "ev_mc_ratio": 0.5329,
       "cash_neto_m": 541.8
-    },
-    {
-      "ticker": "CCEL",
-      "ok": true,
-      "float": "5.23M ($5.23M)",
-      "os": "8.06M ($8.06M)  [DT]",
-      "os_growth": "+0.0%",
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": "$33.90M",
-      "ev": "$37.20M",
-      "net_cash_sh": "-0.4",
-      "inst_own": "6.9%",
-      "caja_meses": null,
-      "header_raw": null,
-      "empresa": "Cryo-Cell International, Inc.",
-      "float_m": 5.23,
-      "os_m": 8.06,
-      "market_cap_m": 33.9,
-      "ev_m": 37.2,
-      "os_growth_pct": 0.0,
-      "caja_meses_n": null,
-      "net_cash_sh_n": -0.4,
-      "inst_own_pct": 6.9,
-      "dil_instr_n": null,
-      "float_pct_os": 64.89,
-      "float_os_ratio": 0.6489,
-      "ev_mc_ratio": 1.0973,
-      "cash_neto_m": -3.3
     },
     {
       "ticker": "IOYY",
