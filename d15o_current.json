@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-01T12:22:42+00:00",
-  "count": 10,
+  "timestamp": "2026-10-01T12:25:12+00:00",
+  "count": 9,
   "tickers": [
     "RZAI",
     "TTT",
@@ -10,8 +10,7 @@
     "SCKT",
     "GIPR",
     "BLIV",
-    "ACN",
-    "OPNW"
+    "ACN"
   ],
   "enriquecidos": 6,
   "pendientes": 0,
@@ -275,35 +274,6 @@
       "float_pct_os": null,
       "float_os_ratio": null,
       "ev_mc_ratio": 0.9829,
-      "cash_neto_m": null
-    },
-    {
-      "ticker": "OPNW",
-      "ok": false,
-      "float": "No disponible (Float & OS: Float & OS: )",
-      "os": null,
-      "os_growth": null,
-      "dil_instr": null,
-      "dil_tipos": null,
-      "market_cap": null,
-      "ev": null,
-      "net_cash_sh": null,
-      "inst_own": null,
-      "caja_meses": null,
-      "header_raw": "Float & OS: Float & OS: )",
-      "empresa": "None",
-      "float_m": null,
-      "os_m": null,
-      "market_cap_m": null,
-      "ev_m": null,
-      "os_growth_pct": null,
-      "caja_meses_n": null,
-      "net_cash_sh_n": null,
-      "inst_own_pct": null,
-      "dil_instr_n": null,
-      "float_pct_os": null,
-      "float_os_ratio": null,
-      "ev_mc_ratio": null,
       "cash_neto_m": null
     }
   ]
