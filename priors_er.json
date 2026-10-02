@@ -1,0 +1,44 @@
+{
+ "pmh_breakout": {
+  "n": 184,
+  "er": -0.069,
+  "wr": 32.6,
+  "pnl": -5646.79
+ },
+ "orb_breakout": {
+  "n": 230,
+  "er": -0.094,
+  "wr": 31.7,
+  "pnl": -4285.41
+ },
+ "vwap_pullback": {
+  "n": 671,
+  "er": -0.107,
+  "wr": 33.5,
+  "pnl": -7262.93
+ },
+ "prev_fade_short": {
+  "n": 17,
+  "er": 0.037,
+  "wr": 64.7,
+  "pnl": 2163.55
+ },
+ "vwap_fail_short": {
+  "n": 278,
+  "er": -0.022,
+  "wr": 45.7,
+  "pnl": -2242.88
+ },
+ "_meta": {
+  "geometry": {
+   "atr_mult": 1.0,
+   "rr": 2.0
+  },
+  "window": [
+   "2026-08-04",
+   "2026-09-30"
+  ],
+  "universe": 37,
+  "generated_by": "research/validate_priors.py"
+ }
+}
