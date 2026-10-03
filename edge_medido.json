@@ -1,9 +1,9 @@
 {
-  "generado": "2026-10-02T18:58:37+00:00",
+  "generado": "2026-10-03T00:32:37+00:00",
   "fuente": "backtest_engine (velas 5m, 37 tickers, 04-ago a 30-sep)",
   "ventana": [
-    "2026-08-04",
-    "2026-09-30"
+    "2026-08-07",
+    "2026-10-03"
   ],
   "geometria": {
     "atr_mult": 1.0,
@@ -16,37 +16,37 @@
   },
   "setups": {
     "pmh_breakout": {
-      "er": -0.069,
-      "wr": 32.6,
-      "n": 184,
+      "er": -0.064,
+      "wr": 32.8,
+      "n": 137,
       "edge_positivo": false,
       "bloqueado_por_gate": true
     },
     "orb_breakout": {
-      "er": -0.094,
-      "wr": 31.7,
+      "er": -0.096,
+      "wr": 32.6,
       "n": 230,
       "edge_positivo": false,
       "bloqueado_por_gate": true
     },
     "vwap_pullback": {
-      "er": -0.107,
-      "wr": 33.5,
-      "n": 671,
+      "er": -0.111,
+      "wr": 33.4,
+      "n": 668,
       "edge_positivo": false,
       "bloqueado_por_gate": true
     },
     "prev_fade_short": {
-      "er": 0.037,
+      "er": 0.019,
       "wr": 64.7,
       "n": 17,
       "edge_positivo": true,
       "bloqueado_por_gate": false
     },
     "vwap_fail_short": {
-      "er": -0.022,
-      "wr": 45.7,
-      "n": 278,
+      "er": -0.025,
+      "wr": 44.4,
+      "n": 284,
       "edge_positivo": false,
       "bloqueado_por_gate": true
     }
